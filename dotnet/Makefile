@@ -20,6 +20,7 @@ GH_TUPLE=	dotnet:coreclr:5d34cc6:1/external/coreclr \
 
 MAKE_JOBS_UNSAFE=	yes
 BUILD_CONFIGURATION=	release
+CORE_SETUP_COMMIT_HASH=	2ad3de577c6552be4a06fa0c6b7313ad8b57fc41
 MAKE_ENV=	COMPlus_ZapDisable=1 \
 		COMPlus_ReadyToRun=0 \
 		DOTNET_SKIP_FIRST_TIME_EXPERIENCE=1 \
@@ -28,9 +29,15 @@ MAKE_ENV=	COMPlus_ZapDisable=1 \
 		DOTNET_SYSTEM_NET_HTTP_USESOCKETSHTTPHANDLER=0
 
 do-configure:
-	${WRKSRC}/external/coreclr/build.sh -configureonly -skipmscorlib -${BUILD_CONFIGURATION}
+	(cd ${WRKSRC}/external/coreclr && \
+		${WRKSRC}/external/coreclr/build.sh -configureonly -skipmscorlib -${BUILD_CONFIGURATION}
 
 do-build:
-	${WRKSRC}/external/coreclr/build.sh -skipconfigure -skipmscorlib -${BUILD_CONFIGURATION}
+	(cd ${WRKSRC} && \
+		src/corehost/build.sh --configuration ${BUILD_CONFIGURATION} --hostver "2.0.0" \
+			--apphostver "2.0.0" --fxrver "2.0.0" --policyver "2.0.0" \
+			--commithash ${CORE_SETUP_COMMIT_HASH})
+	(cd ${WRKSRC}/external/coreclr && \
+		${WRKSRC}/external/coreclr/build.sh -skipconfigure -skipmscorlib -${BUILD_CONFIGURATION}
 
 .include <bsd.port.mk>
