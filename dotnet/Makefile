@@ -37,7 +37,7 @@ do-build:
 		src/corehost/build.sh --configuration ${BUILD_CONFIGURATION} --hostver "2.0.0" \
 			--arch "x`echo ${ARCH} | sed 's/[^0-9]*//g'`" --apphostver "2.0.0" \
 		       	--fxrver "2.0.0" --policyver "2.0.0" --commithash ${CORE_SETUP_COMMIT_HASH})
-	#(cd ${WRKSRC}/external/coreclr && \
+	(cd ${WRKSRC}/external/coreclr && \
 		build.sh -skipconfigure -skipmscorlib -${BUILD_CONFIGURATION})
 	(cd ${WRKSRC}/external/corefx && \
 		src/Native/build-native.sh -${BUILD_CONFIGURATION})
