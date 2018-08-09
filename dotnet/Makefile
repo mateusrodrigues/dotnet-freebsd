@@ -30,14 +30,16 @@ MAKE_ENV=	COMPlus_ZapDisable=1 \
 
 do-configure:
 	(cd ${WRKSRC}/external/coreclr && \
-		${WRKSRC}/external/coreclr/build.sh -configureonly -skipmscorlib -${BUILD_CONFIGURATION}
+		${WRKSRC}/external/coreclr/build.sh -configureonly -skipmscorlib -${BUILD_CONFIGURATION})
 
 do-build:
 	(cd ${WRKSRC} && \
 		src/corehost/build.sh --configuration ${BUILD_CONFIGURATION} --hostver "2.0.0" \
 			--arch "x`echo ${ARCH} | sed 's/[^0-9]*//g'`" --apphostver "2.0.0" \
 		       	--fxrver "2.0.0" --policyver "2.0.0" --commithash ${CORE_SETUP_COMMIT_HASH})
-	(cd ${WRKSRC}/external/coreclr && \
-		${WRKSRC}/external/coreclr/build.sh -skipconfigure -skipmscorlib -${BUILD_CONFIGURATION}
+	#(cd ${WRKSRC}/external/coreclr && \
+		build.sh -skipconfigure -skipmscorlib -${BUILD_CONFIGURATION})
+	(cd ${WRKSRC}/external/corefx && \
+		src/Native/build-native.sh -${BUILD_CONFIGURATION})
 
 .include <bsd.port.mk>
