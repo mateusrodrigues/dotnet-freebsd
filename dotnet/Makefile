@@ -1,8 +1,7 @@
 # $FreeBSD$
 
 PORTNAME=	dotnet
-DISTVERSIONPREFIX=	v
-DISTVERSION=	3.0.100-preview1-009019
+DISTVERSION=	2.2.0-preview1-26620-03
 CATEGORIES=	devel
 
 LICENSE=	MIT
@@ -23,14 +22,10 @@ GH_TUPLE=	dotnet:coreclr:5d34cc6:1/external/coreclr \
 USES=		gettext-runtime
 BUILD_DEPENDS=	bash:shells/bash \
 		cmake:devel/cmake \
-		icuinfo:devel/icu \
-		libcurl.so:ftp/curl \
-		libgssapi_krb5.so:secutiry/krb5 \
-		libunwind-x86_64.so:devel/libunwind \
-		linunwind.sp:devel/libunwind \
-		liblttng-ust.so:sysutils/lttng-ust
+		icuinfo:devel/icu 
 LIB_DEPENDS=	libcurl.so:ftp/curl \
 		libgssapi_krb5.so:security/krb5 \
+		libgssapi_krb5.so.2.2:security/krb5 \
 		libunwind-x86_64.so:devel/libunwind \
 		libunwind.so:devel/libunwind \
 		liblttng-ust.so:sysutils/lttng-ust
