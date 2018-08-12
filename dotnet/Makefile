@@ -20,6 +20,13 @@ GH_TAGNAME=	2ad3de5
 GH_TUPLE=	dotnet:coreclr:5d34cc6:1/external/coreclr \
 		dotnet:corefx:c7f7b5b:2/external/corefx
 
+USES=		gettext-runtime
+LIB_DEPENDS=	libcurl.so:ftp/curl \
+		libgssapi_krb5.so:security/krb5 \
+		libunwind-x86_64.so:devel/libunwind \
+		libunwind.so:devel/libunwind \
+		liblttng-ust.so:sysutils/lttng-ust
+
 MAKE_JOBS_UNSAFE=	yes
 BUILD_CONFIGURATION=	release
 RUNTIME_VERSION=	2.2.0-preview1-26620-03

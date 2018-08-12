@@ -1,5 +1,5 @@
---- external/corefx/src/Native/Unix/System.Native/pal_networking.c	2018-08-10 20:29:10.265570000 -0300
-+++ external/corefx/src/Native/Unix/System.Native/pal_networking.c	2018-08-10 20:33:22.037647000 -0300
+--- external/corefx/src/Native/Unix/System.Native/pal_networking.c.orig	2018-08-10 20:29:10.265570000 -0300
++++ external/corefx/src/Native/Unix/System.Native/pal_networking.c
 @@ -2209,6 +2209,7 @@
      int8_t writeChanged = (changes & SocketEvents_SA_WRITE) != 0;
  
