@@ -21,6 +21,14 @@ GH_TUPLE=	dotnet:coreclr:5d34cc6:1/external/coreclr \
 		dotnet:corefx:c7f7b5b:2/external/corefx
 
 USES=		gettext-runtime
+BUILD_DEPENDS=	bash:shells/bash \
+		cmake:devel/cmake \
+		icuinfo:devel/icu \
+		libcurl.so:ftp/curl \
+		libgssapi_krb5.so:secutiry/krb5 \
+		libunwind-x86_64.so:devel/libunwind \
+		linunwind.sp:devel/libunwind \
+		liblttng-ust.so:sysutils/lttng-ust
 LIB_DEPENDS=	libcurl.so:ftp/curl \
 		libgssapi_krb5.so:security/krb5 \
 		libunwind-x86_64.so:devel/libunwind \
@@ -38,17 +46,13 @@ MAKE_ENV=	COMPlus_ZapDisable=1 \
 		SSL_CERT_FILE=/usr/local/share/certs/ca-root-nss.crt \
 		DOTNET_SYSTEM_NET_HTTP_USESOCKETSHTTPHANDLER=0
 
-do-configure:
-	(cd ${WRKSRC}/external/coreclr && \
-		${WRKSRC}/external/coreclr/build.sh -configureonly -skipmscorlib -${BUILD_CONFIGURATION})
-
 do-build:
 	(cd ${WRKSRC} && \
 		src/corehost/build.sh --configuration ${BUILD_CONFIGURATION} --hostver "2.0.0" \
 			--arch "x`echo ${ARCH} | sed 's/[^0-9]*//g'`" --apphostver "2.0.0" \
 		       	--fxrver "2.0.0" --policyver "2.0.0" --commithash ${CORE_SETUP_COMMIT_HASH})
 	(cd ${WRKSRC}/external/coreclr && \
-		./build.sh -skipconfigure -skipmscorlib -${BUILD_CONFIGURATION})
+		./build.sh -clang3.8 -skipmscorlib -${BUILD_CONFIGURATION})
 	(cd ${WRKSRC}/external/corefx && \
 		src/Native/build-native.sh -${BUILD_CONFIGURATION})
 
