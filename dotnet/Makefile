@@ -40,10 +40,18 @@ BUILD_CONFIGURATION=	release
 RUNTIME_VERSION=	2.2.0-preview1-26620-03
 CORE_SETUP_COMMIT_HASH=	2ad3de577c6552be4a06fa0c6b7313ad8b57fc41
 
+.include <bsd.port.pre.mk>
+
+.if ${ARCH} == i386
+CORE_SETUP_ARCH=	x86
+.elif ${ARCH} == amd64
+CORE_SETUP_ARCH=	x64
+.endif
+
 do-build:
 	(cd ${WRKSRC} && \
 		src/corehost/build.sh --configuration ${BUILD_CONFIGURATION} --hostver "2.0.0" \
-			--arch "x`echo ${ARCH} | ${SED} 's/[^0-9]*//g'`" --apphostver "2.0.0" \
+			--arch "${CORE_SETUP_ARCH}" --apphostver "2.0.0" \
 		       	--fxrver "2.0.0" --policyver "2.0.0" --commithash ${CORE_SETUP_COMMIT_HASH})
 	(cd ${WRKSRC}/external/coreclr && \
 		./build.sh -clang3.8 -skipmscorlib -${BUILD_CONFIGURATION})
