@@ -4,10 +4,10 @@ PORTNAME=	dotnet
 DISTVERSION=	2.2.0-preview1-26620-03
 CATEGORIES=	devel
 MASTER_SITES=	https://gsocfiles.blob.core.windows.net/dotnet/
-DISTFILES=	dotnet-freebsd-2.2.0-preview1-26620-03-MANAGEDONLY.tar.gz
+DISTNAME=	dotnet-freebsd-2.2.0-preview1-26620-03-MANAGEDONLY
 
 MAINTAINER=	mateus@mateus.tech
-COMMENT=	Dotnet is a cross-platform framework for building services and apps.
+COMMENT=	Dotnet is a cross-platform framework for building services and apps
 
 LICENSE=	MIT
 LICENSE_FILE=	${WRKSRC}/LICENSE.TXT
