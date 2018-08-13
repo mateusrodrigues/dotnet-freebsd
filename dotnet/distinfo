@@ -1,6 +1,6 @@
-TIMESTAMP = 1534176907
-SHA256 (dotnet-freebsd-2.2.0-preview1-26620-03-MANAGEDONLY.tar.gz) = e42db0a9dacb61f6c3887b95576ab3d81d0e34616591938a6f7ac9d835a50f9b
-SIZE (dotnet-freebsd-2.2.0-preview1-26620-03-MANAGEDONLY.tar.gz) = 9812141
+TIMESTAMP = 1534200038
+SHA256 (dotnet-freebsd-2.2.0-preview1-26620-03-MANAGEDONLY.tar.gz) = 0802db64a935710ad47266b827b1e30c70b558504f00bd4306f283cf3244afa6
+SIZE (dotnet-freebsd-2.2.0-preview1-26620-03-MANAGEDONLY.tar.gz) = 9812739
 SHA256 (dotnet-core-setup-2.2.0-preview1-26620-03-2ad3de5_GH0.tar.gz) = f6e34ee0051a40e12157620002e6ae8bcb51c9da5ea92f701db938f1b0bdd42f
 SIZE (dotnet-core-setup-2.2.0-preview1-26620-03-2ad3de5_GH0.tar.gz) = 431328
 SHA256 (dotnet-coreclr-5d34cc6_GH0.tar.gz) = 225813e58075b2024c503926df2965df71e6aed08992be25e8eaf1abc7b00885
