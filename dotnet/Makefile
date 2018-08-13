@@ -66,15 +66,15 @@ do-install:
 
 	${INSTALL_LIB} ${WRKSRC}/external/coreclr/bin/Product/FreeBSD.x64.Release/*.so ${STAGEDIR}${PREFIX}/share/dotnet/shared/Microsoft.NETCore.App/${RUNTIME_VERSION}
 	${INSTALL_DATA} ${WRKSRC}/external/coreclr/bin/Product/FreeBSD.x64.Release/System.Globalization.Native.a ${STAGEDIR}${PREFIX}/share/dotnet/shared/Microsoft.NETCore.App/${RUNTIME_VERSION}
-	#${INSTALL_PROGRAM} ${WRKSRC}/external/coreclr/bin/Product/FreeBSD.x64.Release/corehost ${STAGEDIR}${PREFIX}/share/dotnet/shared/Microsoft.NETCore.App/${RUNTIME_VERSION}
 	${INSTALL_PROGRAM} ${WRKSRC}/external/coreclr/bin/Product/FreeBSD.x64.Release/corerun ${STAGEDIR}${PREFIX}/share/dotnet/shared/Microsoft.NETCore.App/${RUNTIME_VERSION}
-	#${INSTALL_PROGRAM} ${WRKSRC}/external/coreclr/bin/Product/FreeBSD.x64.Release/createdump ${STAGEDIR}${PREFIX}/share/dotnet/shared/Microsoft.NETCore.App/${RUNTIME_VERSION}
 	${INSTALL_PROGRAM} ${WRKSRC}/external/coreclr/bin/Product/FreeBSD.x64.Release/crossgen ${STAGEDIR}${PREFIX}/share/dotnet/shared/Microsoft.NETCore.App/${RUNTIME_VERSION}
+	${CP} ${STAGEDIR}${PREFIX}/share/dotnet/dotnet ${STAGEDIR}${PREFIX}/share/dotnet/shared/Microsoft.NETCore.App/${RUNTIME_VERSION}/corehost
 
 	${INSTALL_LIB} ${WRKSRC}/external/corefx/bin/FreeBSD.x64.Release/native/*.so ${STAGEDIR}${PREFIX}/share/dotnet/shared/Microsoft.NETCore.App/${RUNTIME_VERSION}
 	${INSTALL_DATA} ${WRKSRC}/external/corefx/bin/FreeBSD.x64.Release/native/*.a ${STAGEDIR}${PREFIX}/share/dotnet/shared/Microsoft.NETCore.App/${RUNTIME_VERSION}
 
 	${INSTALL_MAN} ${WRKDIR}/LICENSE.txt ${STAGEDIR}${PREFIX}/share/dotnet
 	${INSTALL_MAN} ${WRKDIR}/ThirdPartyNotices.txt ${STAGEDIR}${PREFIX}/share/dotnet
+	${INSTALL_MAN} ${WRKSRC}/external/coreclr/bin/Product/FreeBSD.x64.Release/sosdocsunix.txt ${STAGEDIR}${PREFIX}/share/dotnet/shared/Microsoft.NETCore.App/${RUNTIME_VERSION}
 
 .include <bsd.port.mk>
