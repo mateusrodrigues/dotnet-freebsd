@@ -4,31 +4,32 @@ PORTNAME=	dotnet
 DISTVERSION=	2.2.0-preview1-26620-03
 CATEGORIES=	devel
 
-LICENSE=	MIT
-LICENSE_FILE=	${WRKSRC}/LICENSE.TXT
+MASTER_SITES=	https://gsocfiles.blob.core.windows.net/dotnet/
+DISTFILES=	dotnet-freebsd-3.0.100-preview1-009019-MANAGEDONLY.tar.gz
 
 MAINTAINER=	mateus@mateus.tech
 COMMENT=	.NET Core runtime
 
-MASTER_SITES=	https://gsocfiles.blob.core.windows.net/dotnet/
-DISTFILES=	dotnet-freebsd-3.0.100-preview1-009019-MANAGEDONLY.tar.gz
-USE_GITHUB=	yes
-GH_ACCOUNT=	dotnet
-GH_PROJECT=	core-setup
-GH_TAGNAME=	2ad3de5
-GH_TUPLE=	dotnet:coreclr:5d34cc6:1/external/coreclr \
-		dotnet:corefx:c7f7b5b:2/external/corefx
+LICENSE=	MIT
+LICENSE_FILE=	${WRKSRC}/LICENSE.TXT
 
-USES=		gettext-runtime
 BUILD_DEPENDS=	bash:shells/bash \
 		cmake:devel/cmake \
-		icuinfo:devel/icu 
+		icuinfo:devel/icu
 LIB_DEPENDS=	libcurl.so:ftp/curl \
 		libgssapi_krb5.so:security/krb5 \
 		libgssapi_krb5.so.2.2:security/krb5 \
 		libunwind-x86_64.so:devel/libunwind \
 		libunwind.so:devel/libunwind \
 		liblttng-ust.so:sysutils/lttng-ust
+		
+USES=		gettext-runtime
+USE_GITHUB=	yes
+GH_ACCOUNT=	dotnet
+GH_PROJECT=	core-setup
+GH_TAGNAME=	2ad3de5
+GH_TUPLE=	dotnet:coreclr:5d34cc6:1/external/coreclr \
+		dotnet:corefx:c7f7b5b:2/external/corefx
 
 MAKE_JOBS_UNSAFE=	yes
 BUILD_CONFIGURATION=	release
@@ -44,7 +45,7 @@ MAKE_ENV=	COMPlus_ZapDisable=1 \
 do-build:
 	(cd ${WRKSRC} && \
 		src/corehost/build.sh --configuration ${BUILD_CONFIGURATION} --hostver "2.0.0" \
-			--arch "x`echo ${ARCH} | sed 's/[^0-9]*//g'`" --apphostver "2.0.0" \
+			--arch "x`echo ${ARCH} | ${SED} 's/[^0-9]*//g'`" --apphostver "2.0.0" \
 		       	--fxrver "2.0.0" --policyver "2.0.0" --commithash ${CORE_SETUP_COMMIT_HASH})
 	(cd ${WRKSRC}/external/coreclr && \
 		./build.sh -clang3.8 -skipmscorlib -${BUILD_CONFIGURATION})
