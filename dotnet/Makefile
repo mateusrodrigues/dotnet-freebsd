@@ -3,8 +3,8 @@
 PORTNAME=	dotnet
 DISTVERSION=	2.2.0-preview1-26620-03
 CATEGORIES=	devel
-MASTER_SITES=	https://gsocfiles.blob.core.windows.net/dotnet/
-DISTNAME=	dotnet-freebsd-2.2.0-preview1-26620-03-MANAGEDONLY
+#MASTER_SITES+=	https://gsocfiles.blob.core.windows.net/dotnet/:managed
+#DISTNAME+=	dotnet-freebsd-2.2.0-preview1-26620-03-MANAGEDONLY:managed
 
 MAINTAINER=	mateus@mateus.tech
 COMMENT=	Dotnet is a cross-platform framework for building services and apps
@@ -17,11 +17,12 @@ BUILD_DEPENDS=	bash:shells/bash \
 		icuinfo:devel/icu
 LIB_DEPENDS=	libcurl.so:ftp/curl \
 		libgssapi_krb5.so:security/krb5 \
-		libgssapi_krb5.so.2.2:security/krb5 \
 		libunwind-x86_64.so:devel/libunwind \
 		libunwind.so:devel/libunwind \
 		liblttng-ust.so:sysutils/lttng-ust
 USES=		gettext-runtime
+GSSAPI_MIT_USES=	gssapi:mit
+GSSAPI_MIT_CONFIGURE_ON=	--with-gssapi=${GSSAPIBASEDIR} ${GSSAPI_CONFIGURE_ARGS}
 USE_GITHUB=	yes
 GH_ACCOUNT=	dotnet
 GH_PROJECT=	core-setup
@@ -34,12 +35,15 @@ BUILD_CONFIGURATION=	release
 RUNTIME_VERSION=	2.2.0-preview1-26620-03
 CORE_SETUP_COMMIT_HASH=	2ad3de577c6552be4a06fa0c6b7313ad8b57fc41
 
+OPTIONS_SINGLE=	GSSAPI
+OPTIONS_SINGLE_GSSAPI=	GSSAPI_MIT
+
 do-build:
 	(cd ${WRKSRC} && \
 		src/corehost/build.sh --configuration ${BUILD_CONFIGURATION} --hostver "2.0.0" \
 			--arch "x`echo ${ARCH} | ${SED} 's/[^0-9]*//g'`" --apphostver "2.0.0" \
 		       	--fxrver "2.0.0" --policyver "2.0.0" --commithash ${CORE_SETUP_COMMIT_HASH})
-	(cd ${WRKSRC}/external/coreclr && \
+	#(cd ${WRKSRC}/external/coreclr && \
 		./build.sh -clang3.8 -skipmscorlib -${BUILD_CONFIGURATION})
 	(cd ${WRKSRC}/external/corefx && \
 		src/Native/build-native.sh -${BUILD_CONFIGURATION})
