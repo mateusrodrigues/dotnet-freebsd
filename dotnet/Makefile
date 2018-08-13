@@ -62,6 +62,7 @@ do-install:
 	${MKDIR} ${STAGEDIR}${PREFIX}/share/dotnet/shared
 	(cd ${WRKDIR}/shared && \
 		${COPYTREE_SHARE} . ${STAGEDIR}${PREFIX}/share/dotnet/shared)
+	${INSTALL_PROGRAM} ${WRKDIR}/shared/Microsoft.NETCore.App/${RUNTIME_VERSION}/createdump ${STAGEDIR}${PREFIX}/share/dotnet/shared/Microsoft.NETCore.App/${RUNTIME_VERSION}
 
 	(cd ${WRKSRC}/cli/dll && \
 		${INSTALL_LIB} libhostpolicy.so ${STAGEDIR}${PREFIX}/share/dotnet/shared/Microsoft.NETCore.App/${RUNTIME_VERSION})

@@ -224,6 +224,7 @@ share/dotnet/shared/Microsoft.NETCore.App/2.2.0-preview1-26620-03/WindowsBase.dl
 share/dotnet/shared/Microsoft.NETCore.App/2.2.0-preview1-26620-03/Xunit.NetCore.Extensions.dll
 share/dotnet/shared/Microsoft.NETCore.App/2.2.0-preview1-26620-03/corehost
 share/dotnet/shared/Microsoft.NETCore.App/2.2.0-preview1-26620-03/corerun
+share/dotnet/shared/Microsoft.NETCore.App/2.2.0-preview1-26620-03/createdump
 share/dotnet/shared/Microsoft.NETCore.App/2.2.0-preview1-26620-03/crossgen
 share/dotnet/shared/Microsoft.NETCore.App/2.2.0-preview1-26620-03/dotnet-Microsoft.XmlSerializer.Generator.dll
 share/dotnet/shared/Microsoft.NETCore.App/2.2.0-preview1-26620-03/libclrgc.so
