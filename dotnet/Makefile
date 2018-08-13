@@ -27,9 +27,6 @@ LIB_DEPENDS=	libcurl.so:ftp/curl \
 OPTIONS_SINGLE=	GSSAPI
 OPTIONS_SINGLE_GSSAPI=	GSSAPI_MIT
 
-#MASTER_SITES=	https://gsocfiles.blob.core.windows.net/dotnet/:managed
-#DISTFILES=	dotnet-freebsd-2.2.0-preview1-26620-03-MANAGEDONLY.tar.gz:managed
-
 USES=		gettext-runtime
 GSSAPI_MIT_USES=	gssapi:mit
 GSSAPI_MIT_CONFIGURE_ON=	--with-gssapi=${GSSAPIBASEDIR} ${GSSAPI_CONFIGURE_ARGS}
@@ -79,7 +76,6 @@ do-install:
 	${INSTALL_MAN} ${WRKDIR}/ThirdPartyNotices.txt ${STAGEDIR}${PREFIX}/share/dotnet
 	${INSTALL_MAN} ${WRKSRC}/external/coreclr/bin/Product/FreeBSD.x64.Release/sosdocsunix.txt ${STAGEDIR}${PREFIX}/share/dotnet/shared/Microsoft.NETCore.App/${RUNTIME_VERSION}
 
-	${INSTALL_SCRIPT} files/dotnet ${STAGEDIR}${PREFIX}/bin
-	${REINPLACE_CMD} -e 's|%%PREFIX%%|${PREFIX}|g' ${STAGEDIR}${PREFIX}/bin/dotnet
+	${RLN} ${STAGEDIR}${PREFIX}/share/dotnet/dotnet ${STAGEDIR}${PREFIX}/bin/dotnet
 
 .include <bsd.port.mk>
