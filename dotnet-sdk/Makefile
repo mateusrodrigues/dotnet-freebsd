@@ -7,7 +7,7 @@ MASTER_SITES=	https://gsocfiles.blob.core.windows.net/dotnet/:sdk
 DISTFILES=	dotnet-sdk-freebsd-3.0.100-preview1-009019.tar.gz:sdk
 
 MAINTAINER=	mateus@mateus.tech
-COMMENT=	.NET Core SDK
+COMMENT=	Open Source SDK to build .NET Core applications
 
 LICENSE=	MIT
 
