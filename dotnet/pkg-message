@@ -1,0 +1,22 @@
+This port was first created as part of a Google Summer of Code 2018 project
+by the current port maintainer.
+
+The dotnet port family are preview versions and currently only offer support
+for building native components. Support to build the managed components - such
+as the .dll files - are currently in the works.
+
+The current version of the runtime requires the following environment variables
+to be set. These are in order to disable crossgened version of assemblies that
+currently target Linux and to enable support for HTTP Client that for now does
+not find SSL certificates on FreeBSD by default:
+
+export COMPlus_ZapDisable=1
+export COMPlus_ReadyToRun=0
+
+export SSL_CERT_FILE=/usr/local/share/certs/ca-root-nss.crt
+export DOTNET_SYSTEM_NET_HTTP_USESOCKETSHTTPHANDLER=0
+
+The following parameters are optional:
+
+export DOTNET_SKIP_FIRST_TIME_EXPERIENCE=1
+export DOTNET_CLI_TELEMETRY_OPTOUT=1
