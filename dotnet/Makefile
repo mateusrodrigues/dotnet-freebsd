@@ -4,14 +4,14 @@ PORTNAME=	dotnet
 DISTVERSION=	2.2.0-preview1-26620-03
 CATEGORIES=	devel
 
-MASTER_SITES=	https://gsocfiles.blob.core.windows.net/dotnet/
-DISTFILES=	dotnet-freebsd-3.0.100-preview1-009019-MANAGEDONLY.tar.gz
-
 MAINTAINER=	mateus@mateus.tech
-COMMENT=	.NET Core runtime
+COMMENT=	Dotnet is a cross-platform framework for building services and apps.
 
 LICENSE=	MIT
 LICENSE_FILE=	${WRKSRC}/LICENSE.TXT
+
+MASTER_SITES=	https://gsocfiles.blob.core.windows.net/dotnet/
+DISTFILES=	dotnet-freebsd-3.0.100-preview1-009019-MANAGEDONLY.tar.gz
 
 BUILD_DEPENDS=	bash:shells/bash \
 		cmake:devel/cmake \
@@ -22,7 +22,6 @@ LIB_DEPENDS=	libcurl.so:ftp/curl \
 		libunwind-x86_64.so:devel/libunwind \
 		libunwind.so:devel/libunwind \
 		liblttng-ust.so:sysutils/lttng-ust
-		
 USES=		gettext-runtime
 USE_GITHUB=	yes
 GH_ACCOUNT=	dotnet
@@ -35,12 +34,6 @@ MAKE_JOBS_UNSAFE=	yes
 BUILD_CONFIGURATION=	release
 RUNTIME_VERSION=	2.2.0-preview1-26620-03
 CORE_SETUP_COMMIT_HASH=	2ad3de577c6552be4a06fa0c6b7313ad8b57fc41
-MAKE_ENV=	COMPlus_ZapDisable=1 \
-		COMPlus_ReadyToRun=0 \
-		DOTNET_SKIP_FIRST_TIME_EXPERIENCE=1 \
-		DOTNET_CLI_TELEMETRY_OPTOUT=1 \
-		SSL_CERT_FILE=/usr/local/share/certs/ca-root-nss.crt \
-		DOTNET_SYSTEM_NET_HTTP_USESOCKETSHTTPHANDLER=0
 
 do-build:
 	(cd ${WRKSRC} && \

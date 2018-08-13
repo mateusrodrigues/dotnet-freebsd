@@ -1,6 +1,6 @@
---- external/corefx/src/Native/Unix/System.Native/pal_networking.c.orig	2018-08-10 20:29:10.265570000 -0300
+--- external/corefx/src/Native/Unix/System.Native/pal_networking.c.orig	2018-06-19 23:42:29 UTC
 +++ external/corefx/src/Native/Unix/System.Native/pal_networking.c
-@@ -2209,6 +2209,7 @@
+@@ -2209,6 +2209,7 @@ static int32_t TryChangeSocketEventRegis
      int8_t writeChanged = (changes & SocketEvents_SA_WRITE) != 0;
  
      struct kevent events[2];
@@ -8,7 +8,7 @@
  
      int i = 0;
      if (readChanged)
-@@ -2221,6 +2222,20 @@
+@@ -2221,6 +2222,20 @@ static int32_t TryChangeSocketEventRegis
                 0,
                 GetKeventUdata(data));
      }
@@ -29,7 +29,7 @@
  
      if (writeChanged)
      {
-@@ -2233,7 +2248,6 @@
+@@ -2233,7 +2248,6 @@ static int32_t TryChangeSocketEventRegis
                 GetKeventUdata(data));
      }
  
