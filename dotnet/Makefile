@@ -70,4 +70,7 @@ do-install:
 	${INSTALL_MAN} ${WRKDIR}/ThirdPartyNotices.txt ${STAGEDIR}${PREFIX}/share/dotnet
 	${INSTALL_MAN} ${WRKSRC}/external/coreclr/bin/Product/FreeBSD.x64.Release/sosdocsunix.txt ${STAGEDIR}${PREFIX}/share/dotnet/shared/Microsoft.NETCore.App/${RUNTIME_VERSION}
 
+	${INSTALL_SCRIPT} files/dotnet ${STAGEDIR}${PREFIX}/bin
+	${REINPLACE_CMD} -e 's|%%PREFIX%%|${PREFIX}|g' ${STAGEDIR}${PREFIX}/bin/dotnet
+
 .include <bsd.port.mk>
