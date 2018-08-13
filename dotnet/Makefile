@@ -3,15 +3,14 @@
 PORTNAME=	dotnet
 DISTVERSION=	2.2.0-preview1-26620-03
 CATEGORIES=	devel
+MASTER_SITES=	https://gsocfiles.blob.core.windows.net/dotnet/
+DISTFILES=	dotnet-freebsd-2.2.0-preview1-26620-03-MANAGEDONLY.tar.gz
 
 MAINTAINER=	mateus@mateus.tech
 COMMENT=	Dotnet is a cross-platform framework for building services and apps.
 
 LICENSE=	MIT
 LICENSE_FILE=	${WRKSRC}/LICENSE.TXT
-
-MASTER_SITES=	https://gsocfiles.blob.core.windows.net/dotnet/
-DISTFILES=	dotnet-freebsd-3.0.100-preview1-009019-MANAGEDONLY.tar.gz
 
 BUILD_DEPENDS=	bash:shells/bash \
 		cmake:devel/cmake \
