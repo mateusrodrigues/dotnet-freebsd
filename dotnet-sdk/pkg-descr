@@ -1,3 +1,6 @@
-This is the .NET Core SDK port.
+.NET Core is a cross-platform version of .NET for building websites,
+services, and console apps. The software development kit (SDK) includes
+everything you need to build and run .NET Core applications, using
+command line tools and any editor.
 
 WWW: https://www.microsoft.com/net

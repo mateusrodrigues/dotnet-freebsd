@@ -1,3 +1,5 @@
-This is the .NET Core runtime port.
+.NET Core is a cross-platform version of .NET for building websites,
+services, and console apps. The runtime includes just the resources
+required to run existing .NET Core applications.
 
 WWW: https://www.microsoft.com/net
