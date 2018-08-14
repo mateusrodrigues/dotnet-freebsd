@@ -4,7 +4,7 @@
 PORTNAME=	dotnet-sdk
 DISTVERSION=	3.0.100-preview1-009019
 CATEGORIES=	devel
-MASTER_SITES=	https://gsocfiles.blob.core.windows.net/dotnet/:sdk
+MASTER_SITES=	LOCAL/dbn/dotnet/:sdk
 DISTFILES=	dotnet-sdk-freebsd-3.0.100-preview1-009019.tar.gz:sdk
 
 MAINTAINER=	mateus@mateus.tech
@@ -17,9 +17,10 @@ ONLY_FOR_ARCHS=	amd64 i386
 RUN_DEPENDS=	dotnet:devel/dotnet
 
 USE_GITHUB=	yes
-GH_TUPLE=	dotnet:core-setup:2ad3de5:DEFAULT
+GH_ACCOUNT=	dotnet
+GH_PROJECT=	core-setup
+GH_TAGNAME=	2ad3de5
 
-MAKE_JOBS_UNSAFE=	yes
 SDK_VERSION=	3.0.100-preview1-009019
 BUILD_CONFIGURATION=	release
 CORE_SETUP_VERSION=	2.0.0

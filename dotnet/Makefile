@@ -4,7 +4,7 @@
 PORTNAME=	dotnet
 DISTVERSION=	2.2.0-preview1-26620-03
 CATEGORIES=	devel
-MASTER_SITES=	https://gsocfiles.blob.core.windows.net/dotnet/:managed
+MASTER_SITES=	LOCAL/dbn/dotnet/:managed
 DISTFILES=	dotnet-freebsd-2.2.0-preview1-26620-03-MANAGEDONLY.tar.gz:managed
 
 MAINTAINER=	mateus@mateus.tech
@@ -25,21 +25,23 @@ LIB_DEPENDS=	libcurl.so:ftp/curl \
 		libunwind.so:devel/libunwind \
 		liblttng-ust.so:sysutils/lttng-ust
 
+USES=		gettext-runtime
+USE_GITHUB=	yes
+GH_ACCOUNT=	dotnet
+GH_PROJECT=	core-setup
+GH_TAGNAME=	2ad3de5
+GH_TUPLE=	dotnet:coreclr:5d34cc6:coreclr/external/coreclr \
+		dotnet:corefx:c7f7b5b:corefx/external/corefx
 
 OPTIONS_SINGLE=	GSSAPI
 OPTIONS_SINGLE_GSSAPI=	GSSAPI_MIT
 
-USES=		gettext-runtime
 GSSAPI_MIT_USES=	gssapi:mit
 GSSAPI_MIT_CONFIGURE_ON=	--with-gssapi=${GSSAPIBASEDIR} ${GSSAPI_CONFIGURE_ARGS}
-USE_GITHUB=	yes
-GH_TUPLE=	dotnet:core-setup:2ad3de5:DEFAULT \
-		dotnet:coreclr:5d34cc6:coreclr/external/coreclr \
-		dotnet:corefx:c7f7b5b:corefx/external/corefx
 
-MAKE_JOBS_UNSAFE=	yes
 BUILD_CONFIGURATION=	release
 RUNTIME_VERSION=	2.2.0-preview1-26620-03
+CORE_SETUP_VERSION=	2.0.0
 CORE_SETUP_COMMIT_HASH=	2ad3de577c6552be4a06fa0c6b7313ad8b57fc41
 
 .include <bsd.port.pre.mk>
@@ -52,9 +54,14 @@ CORE_SETUP_ARCH=	x64
 
 do-build:
 	(cd ${WRKSRC} && \
-		src/corehost/build.sh --configuration ${BUILD_CONFIGURATION} --hostver "2.0.0" \
-			--arch "${CORE_SETUP_ARCH}" --apphostver "2.0.0" \
-		       	--fxrver "2.0.0" --policyver "2.0.0" --commithash ${CORE_SETUP_COMMIT_HASH})
+		src/corehost/build.sh \
+			--configuration ${BUILD_CONFIGURATION} \
+			--hostver "${CORE_SETUP_VERSION}" \
+			--arch "${CORE_SETUP_ARCH}" \
+			--apphostver "${CORE_SETUP_VERSION}" \
+		       	--fxrver "${CORE_SETUP_VERSION}" \
+			--policyver "${CORE_SETUP_VERSION}" \
+			--commithash ${CORE_SETUP_COMMIT_HASH})
 	(cd ${WRKSRC}/external/coreclr && \
 		./build.sh -clang3.9 -skipmscorlib -${BUILD_CONFIGURATION})
 	(cd ${WRKSRC}/external/corefx && \
