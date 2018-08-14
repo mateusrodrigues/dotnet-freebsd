@@ -54,4 +54,4 @@ do-install:
 	(cd ${WRKSRC}/cli/fxr && \
 		${INSTALL_LIB} libhostfxr.so ${STAGEDIR}${PREFIX}/share/dotnet/sdk/${SDK_VERSION})
 
-.include <bsd.port.mk>
+.include <bsd.port.post.mk>

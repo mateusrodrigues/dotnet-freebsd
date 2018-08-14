@@ -17,7 +17,8 @@ ONLY_FOR_ARCHS=	amd64 i386
 
 BUILD_DEPENDS=	bash:shells/bash \
 		cmake:devel/cmake \
-		icuinfo:devel/icu
+		icuinfo:devel/icu \
+		clang39:devel/llvm39
 LIB_DEPENDS=	libcurl.so:ftp/curl \
 		libgssapi_krb5.so:security/krb5 \
 		libunwind-x86_64.so:devel/libunwind \
@@ -55,9 +56,9 @@ do-build:
 			--arch "${CORE_SETUP_ARCH}" --apphostver "2.0.0" \
 		       	--fxrver "2.0.0" --policyver "2.0.0" --commithash ${CORE_SETUP_COMMIT_HASH})
 	(cd ${WRKSRC}/external/coreclr && \
-		./build.sh -clang3.8 -skipmscorlib -${BUILD_CONFIGURATION})
+		./build.sh -clang3.9 -skipmscorlib -${BUILD_CONFIGURATION})
 	(cd ${WRKSRC}/external/corefx && \
-		src/Native/build-native.sh -${BUILD_CONFIGURATION})
+		src/Native/build-native.sh -clang3.9 -${BUILD_CONFIGURATION})
 
 do-install:
 	${MKDIR} ${STAGEDIR}${PREFIX}/share/dotnet/shared
@@ -88,4 +89,4 @@ do-install:
 
 	${RLN} ${STAGEDIR}${PREFIX}/share/dotnet/dotnet ${STAGEDIR}${PREFIX}/bin/dotnet
 
-.include <bsd.port.mk>
+.include <bsd.port.post.mk>
