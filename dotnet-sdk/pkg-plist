@@ -1,666 +1,666 @@
-share/dotnet/sdk/3.0.100-preview1-009019/.version
-share/dotnet/sdk/3.0.100-preview1-009019/15.0/Microsoft.Common.CrossTargeting.targets/ImportAfter/Microsoft.TestPlatform.CrossTargeting.targets
-share/dotnet/sdk/3.0.100-preview1-009019/15.0/Microsoft.Common.props
-share/dotnet/sdk/3.0.100-preview1-009019/15.0/Microsoft.Common.targets/ImportAfter/Microsoft.NET.Build.Extensions.targets
-share/dotnet/sdk/3.0.100-preview1-009019/15.0/Microsoft.Common.targets/ImportAfter/Microsoft.TestPlatform.ImportAfter.targets
-share/dotnet/sdk/3.0.100-preview1-009019/15.0/SolutionFile/ImportAfter/Microsoft.NuGet.ImportAfter.targets
-share/dotnet/sdk/3.0.100-preview1-009019/AppHostTemplate/apphost
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-dev-certs/2.2.0-preview1-34355/.signature.p7s
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-dev-certs/2.2.0-preview1-34355/dotnet-dev-certs.2.2.0-preview1-34355.nupkg
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-dev-certs/2.2.0-preview1-34355/dotnet-dev-certs.2.2.0-preview1-34355.nupkg.sha512
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-dev-certs/2.2.0-preview1-34355/dotnet-dev-certs.nuspec
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-dev-certs/2.2.0-preview1-34355/tools/netcoreapp2.2/any/DotnetToolSettings.xml
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-dev-certs/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-dev-certs.deps.json
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-dev-certs/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-dev-certs.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-dev-certs/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-dev-certs.pdb
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-dev-certs/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-dev-certs.runtimeconfig.json
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-dev-certs/2.2.0-preview1-34355/tools/netcoreapp2.2/any/shims/win-x64/dotnet-dev-certs.exe
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-dev-certs/2.2.0-preview1-34355/tools/netcoreapp2.2/any/shims/win-x86/dotnet-dev-certs.exe
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-ef/2.2.0-preview1-34355/.signature.p7s
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-ef/2.2.0-preview1-34355/dotnet-ef.2.2.0-preview1-34355.nupkg
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-ef/2.2.0-preview1-34355/dotnet-ef.2.2.0-preview1-34355.nupkg.sha512
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-ef/2.2.0-preview1-34355/dotnet-ef.nuspec
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-ef/2.2.0-preview1-34355/tools/netcoreapp2.2/any/DotnetToolSettings.xml
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-ef/2.2.0-preview1-34355/tools/netcoreapp2.2/any/Newtonsoft.Json.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-ef/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-ef.deps.json
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-ef/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-ef.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-ef/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-ef.runtimeconfig.json
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-ef/2.2.0-preview1-34355/tools/netcoreapp2.2/any/shims/win-x64/dotnet-ef.exe
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-ef/2.2.0-preview1-34355/tools/netcoreapp2.2/any/shims/win-x86/dotnet-ef.exe
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-ef/2.2.0-preview1-34355/tools/netcoreapp2.2/any/tools/net461/any/ef.exe
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-ef/2.2.0-preview1-34355/tools/netcoreapp2.2/any/tools/net461/win-x86/ef.exe
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-ef/2.2.0-preview1-34355/tools/netcoreapp2.2/any/tools/netcoreapp2.0/any/ef.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-ef/2.2.0-preview1-34355/tools/netcoreapp2.2/any/tools/netcoreapp2.0/any/ef.runtimeconfig.json
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/.signature.p7s
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/dotnet-sql-cache.2.2.0-preview1-34355.nupkg
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/dotnet-sql-cache.2.2.0-preview1-34355.nupkg.sha512
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/dotnet-sql-cache.nuspec
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/DotnetToolSettings.xml
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/System.Data.SqlClient.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/System.Runtime.CompilerServices.Unsafe.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/System.Text.Encoding.CodePages.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-sql-cache.deps.json
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-sql-cache.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-sql-cache.pdb
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-sql-cache.runtimeconfig.json
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/runtimes/win-arm64/native/sni.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/runtimes/win-x64/native/sni.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/runtimes/win-x86/native/sni.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/shims/win-x64/dotnet-sql-cache.exe
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/shims/win-x86/dotnet-sql-cache.exe
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/.signature.p7s
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/dotnet-user-secrets.2.2.0-preview1-34355.nupkg
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/dotnet-user-secrets.2.2.0-preview1-34355.nupkg.sha512
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/dotnet-user-secrets.nuspec
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/DotnetToolSettings.xml
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/Microsoft.Extensions.Configuration.Abstractions.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/Microsoft.Extensions.Configuration.FileExtensions.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/Microsoft.Extensions.Configuration.Json.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/Microsoft.Extensions.Configuration.UserSecrets.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/Microsoft.Extensions.Configuration.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/Microsoft.Extensions.FileProviders.Abstractions.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/Microsoft.Extensions.FileProviders.Physical.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/Microsoft.Extensions.FileSystemGlobbing.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/Microsoft.Extensions.Primitives.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/Newtonsoft.Json.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/System.Runtime.CompilerServices.Unsafe.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/assets/SecretManager.targets
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-user-secrets.deps.json
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-user-secrets.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-user-secrets.pdb
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-user-secrets.runtimeconfig.json
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/shims/win-x64/dotnet-user-secrets.exe
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/shims/win-x86/dotnet-user-secrets.exe
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-watch/2.2.0-preview1-34355/.signature.p7s
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-watch/2.2.0-preview1-34355/dotnet-watch.2.2.0-preview1-34355.nupkg
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-watch/2.2.0-preview1-34355/dotnet-watch.2.2.0-preview1-34355.nupkg.sha512
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-watch/2.2.0-preview1-34355/dotnet-watch.nuspec
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-watch/2.2.0-preview1-34355/tools/netcoreapp2.2/any/DotnetToolSettings.xml
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-watch/2.2.0-preview1-34355/tools/netcoreapp2.2/any/assets/DotNetWatch.targets
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-watch/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-watch.deps.json
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-watch/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-watch.dll
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-watch/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-watch.pdb
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-watch/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-watch.runtimeconfig.json
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-watch/2.2.0-preview1-34355/tools/netcoreapp2.2/any/shims/win-x64/dotnet-watch.exe
-share/dotnet/sdk/3.0.100-preview1-009019/DotnetTools/dotnet-watch/2.2.0-preview1-34355/tools/netcoreapp2.2/any/shims/win-x86/dotnet-watch.exe
-share/dotnet/sdk/3.0.100-preview1-009019/Extensions/Microsoft.TestPlatform.Extensions.BlameDataCollector.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Extensions/Microsoft.TestPlatform.Extensions.EventLogCollector.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Extensions/Microsoft.TestPlatform.TestHostRuntimeProvider.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Extensions/Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.dll
-share/dotnet/sdk/3.0.100-preview1-009019/FSharp/FSharp.Build.dll
-share/dotnet/sdk/3.0.100-preview1-009019/FSharp/FSharp.Compiler.Interactive.Settings.dll
-share/dotnet/sdk/3.0.100-preview1-009019/FSharp/FSharp.Compiler.Private.dll
-share/dotnet/sdk/3.0.100-preview1-009019/FSharp/FSharp.Core.dll
-share/dotnet/sdk/3.0.100-preview1-009019/FSharp/Microsoft.FSharp.NetSdk.props
-share/dotnet/sdk/3.0.100-preview1-009019/FSharp/Microsoft.FSharp.NetSdk.targets
-share/dotnet/sdk/3.0.100-preview1-009019/FSharp/Microsoft.FSharp.Overrides.NetSdk.targets
-share/dotnet/sdk/3.0.100-preview1-009019/FSharp/Microsoft.FSharp.Targets
-share/dotnet/sdk/3.0.100-preview1-009019/FSharp/Microsoft.Portable.FSharp.Targets
-share/dotnet/sdk/3.0.100-preview1-009019/FSharp/RunFsc.cmd
-share/dotnet/sdk/3.0.100-preview1-009019/FSharp/RunFsc.sh
-share/dotnet/sdk/3.0.100-preview1-009019/FSharp/default.win32manifest
-share/dotnet/sdk/3.0.100-preview1-009019/FSharp/fsc.deps.json
-share/dotnet/sdk/3.0.100-preview1-009019/FSharp/fsc.exe
-share/dotnet/sdk/3.0.100-preview1-009019/FSharp/fsc.runtimeconfig.json
-share/dotnet/sdk/3.0.100-preview1-009019/FSharp/fsi.deps.json
-share/dotnet/sdk/3.0.100-preview1-009019/FSharp/fsi.exe
-share/dotnet/sdk/3.0.100-preview1-009019/FSharp/fsi.runtimeconfig.json
-share/dotnet/sdk/3.0.100-preview1-009019/MSBuild.deps.json
-share/dotnet/sdk/3.0.100-preview1-009019/MSBuild.dll
-share/dotnet/sdk/3.0.100-preview1-009019/MSBuild.runtimeconfig.json
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.ApplicationInsights.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.AspNetCore.DeveloperCertificates.XPlat.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.Build.Framework.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.Build.NuGetSdkResolver.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.Build.Tasks.Core.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.Build.Utilities.Core.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.Build.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.CSharp.CrossTargeting.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.CSharp.CurrentVersion.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.CSharp.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.CodeAnalysis.CSharp.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.CodeAnalysis.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.Common.CrossTargeting.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.Common.CurrentVersion.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.Common.overridetasks
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.Common.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.Common.tasks
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.DotNet.Archive.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.DotNet.Cli.CommandLine.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.DotNet.Cli.Sln.Internal.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.DotNet.Cli.Utils.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.DotNet.Configurer.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.DotNet.InternalAbstractions.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.DotNet.PlatformAbstractions.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.DotNet.ProjectJsonMigration.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.DotNet.Tools.MigrateCommand.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.Extensions.CommandLineUtils.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.Extensions.DependencyModel.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.NETCoreSdk.BundledCliTools.props
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.NETCoreSdk.BundledVersions.props
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.NETFramework.CurrentVersion.props
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.NETFramework.CurrentVersion.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.NETFramework.props
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.NETFramework.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.TemplateEngine.Abstractions.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.TemplateEngine.Cli.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.TemplateEngine.Core.Contracts.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.TemplateEngine.Core.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.TemplateEngine.Edge.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.TemplateEngine.Orchestrator.RunnableProjects.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.TemplateEngine.Utils.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.TestPlatform.Build.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.TestPlatform.CommunicationUtilities.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.TestPlatform.CoreUtilities.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.TestPlatform.CrossPlatEngine.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.TestPlatform.PlatformAbstractions.deps.json
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.TestPlatform.PlatformAbstractions.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.TestPlatform.Utilities.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.TestPlatform.VsTestConsole.TranslationLayer.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.TestPlatform.VsTestConsole.TranslationLayer.xml
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.TestPlatform.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.VisualBasic.CrossTargeting.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.VisualBasic.CurrentVersion.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.VisualBasic.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.VisualStudio.TestPlatform.Client.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.VisualStudio.TestPlatform.Common.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.VisualStudioVersion.v11.Common.props
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.VisualStudioVersion.v12.Common.props
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft.VisualStudioVersion.v14.Common.props
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/Microsoft.NET.Build.Extensions.ConflictResolution.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/Microsoft.NET.Build.Extensions.NETFramework.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/Microsoft.NET.Build.Extensions.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/Microsoft.NET.DefaultPackageConflictOverrides.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/Microsoft.Win32.Primitives.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.AppContext.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Collections.Concurrent.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Collections.NonGeneric.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Collections.Specialized.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Collections.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.ComponentModel.EventBasedAsync.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.ComponentModel.Primitives.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.ComponentModel.TypeConverter.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.ComponentModel.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Console.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Data.Common.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Diagnostics.Contracts.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Diagnostics.Debug.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Diagnostics.FileVersionInfo.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Diagnostics.Process.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Diagnostics.StackTrace.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Diagnostics.TextWriterTraceListener.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Diagnostics.Tools.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Diagnostics.TraceSource.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Diagnostics.Tracing.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Drawing.Primitives.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Dynamic.Runtime.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Globalization.Calendars.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Globalization.Extensions.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Globalization.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.IO.Compression.ZipFile.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.IO.Compression.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.IO.FileSystem.DriveInfo.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.IO.FileSystem.Primitives.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.IO.FileSystem.Watcher.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.IO.FileSystem.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.IO.IsolatedStorage.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.IO.MemoryMappedFiles.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.IO.Pipes.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.IO.UnmanagedMemoryStream.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.IO.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Linq.Expressions.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Linq.Parallel.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Linq.Queryable.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Linq.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Net.Http.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Net.NameResolution.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Net.NetworkInformation.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Net.Ping.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Net.Primitives.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Net.Requests.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Net.Security.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Net.Sockets.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Net.WebHeaderCollection.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Net.WebSockets.Client.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Net.WebSockets.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.ObjectModel.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Reflection.Extensions.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Reflection.Primitives.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Reflection.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Resources.Reader.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Resources.ResourceManager.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Resources.Writer.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Runtime.CompilerServices.VisualC.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Runtime.Extensions.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Runtime.Handles.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Runtime.InteropServices.RuntimeInformation.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Runtime.InteropServices.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Runtime.Numerics.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Runtime.Serialization.Formatters.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Runtime.Serialization.Json.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Runtime.Serialization.Primitives.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Runtime.Serialization.Xml.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Runtime.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Security.Claims.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Security.Cryptography.Algorithms.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Security.Cryptography.Csp.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Security.Cryptography.Encoding.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Security.Cryptography.Primitives.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Security.Cryptography.X509Certificates.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Security.Principal.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Security.SecureString.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Text.Encoding.Extensions.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Text.Encoding.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Text.RegularExpressions.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Threading.Overlapped.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Threading.Tasks.Parallel.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Threading.Tasks.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Threading.Thread.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Threading.ThreadPool.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Threading.Timer.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Threading.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.ValueTuple.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Xml.ReaderWriter.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Xml.XDocument.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Xml.XPath.XDocument.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Xml.XPath.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Xml.XmlDocument.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Xml.XmlSerializer.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/netfx.force.conflicts.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/netstandard.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net462/lib/System.Runtime.InteropServices.RuntimeInformation.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net47/lib/System.Runtime.InteropServices.RuntimeInformation.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net47/lib/System.Security.Cryptography.Algorithms.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net47/lib/System.ValueTuple.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net471/_._
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/System.Data.Common.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/System.Diagnostics.StackTrace.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/System.Diagnostics.Tracing.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/System.Globalization.Extensions.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/System.IO.Compression.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/System.Net.Http.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/System.Net.Sockets.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/System.Runtime.Serialization.Primitives.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/System.Security.Cryptography.Algorithms.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/System.Security.SecureString.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/System.Threading.Overlapped.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/System.Xml.XPath.XDocument.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/netfx.force.conflicts.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/Microsoft.NET.Build.Extensions.Tasks.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Newtonsoft.Json.dll
-share/dotnet/sdk/3.0.100-preview1-009019/NuGet.Build.Tasks.dll
-share/dotnet/sdk/3.0.100-preview1-009019/NuGet.CommandLine.XPlat.deps.json
-share/dotnet/sdk/3.0.100-preview1-009019/NuGet.CommandLine.XPlat.dll
-share/dotnet/sdk/3.0.100-preview1-009019/NuGet.CommandLine.XPlat.runtimeconfig.json
-share/dotnet/sdk/3.0.100-preview1-009019/NuGet.Commands.dll
-share/dotnet/sdk/3.0.100-preview1-009019/NuGet.Common.dll
-share/dotnet/sdk/3.0.100-preview1-009019/NuGet.Configuration.dll
-share/dotnet/sdk/3.0.100-preview1-009019/NuGet.Credentials.dll
-share/dotnet/sdk/3.0.100-preview1-009019/NuGet.DependencyResolver.Core.dll
-share/dotnet/sdk/3.0.100-preview1-009019/NuGet.Frameworks.dll
-share/dotnet/sdk/3.0.100-preview1-009019/NuGet.LibraryModel.dll
-share/dotnet/sdk/3.0.100-preview1-009019/NuGet.Packaging.Core.dll
-share/dotnet/sdk/3.0.100-preview1-009019/NuGet.Packaging.dll
-share/dotnet/sdk/3.0.100-preview1-009019/NuGet.ProjectModel.dll
-share/dotnet/sdk/3.0.100-preview1-009019/NuGet.Protocol.dll
-share/dotnet/sdk/3.0.100-preview1-009019/NuGet.Versioning.dll
-share/dotnet/sdk/3.0.100-preview1-009019/NuGet.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/Microsoft.CSharp.Core.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/Microsoft.Managed.Core.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/Microsoft.VisualBasic.Core.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/Microsoft.CodeAnalysis.CSharp.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/Microsoft.CodeAnalysis.VisualBasic.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/Microsoft.CodeAnalysis.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/RunCsc
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/RunCsc.cmd
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/RunVbc
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/RunVbc.cmd
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/VBCSCompiler.deps.json
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/VBCSCompiler.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/VBCSCompiler.runtimeconfig.json
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/csc.deps.json
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/csc.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/csc.runtimeconfig.json
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/runtimes/unix/lib/netstandard1.3/System.IO.Pipes.AccessControl.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/runtimes/unix/lib/netstandard1.3/System.Text.Encoding.CodePages.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/runtimes/win-x64/native/Microsoft.DiaSymReader.Native.amd64.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/runtimes/win-x86/native/Microsoft.DiaSymReader.Native.x86.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/runtimes/win/lib/netstandard1.3/System.IO.Pipes.AccessControl.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/runtimes/win/lib/netstandard1.3/System.Text.Encoding.CodePages.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/runtimes/win/native/Microsoft.DiaSymReader.Native.amd64.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/runtimes/win/native/Microsoft.DiaSymReader.Native.arm.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/runtimes/win/native/Microsoft.DiaSymReader.Native.x86.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/runtimes/win8-arm/native/Microsoft.DiaSymReader.Native.arm.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/vbc.deps.json
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/vbc.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/vbc.runtimeconfig.json
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/runtimes/unix/lib/netstandard1.3/System.IO.Pipes.AccessControl.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/runtimes/win/lib/netstandard1.3/System.IO.Pipes.AccessControl.dll
-share/dotnet/sdk/3.0.100-preview1-009019/SdkResolvers/Microsoft.Build.NuGetSdkResolver/Microsoft.Build.NuGetSdkResolver.xml
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/FSharp.NET.Sdk/Sdk/Sdk.OnRestore.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/FSharp.NET.Sdk/Sdk/Sdk.props
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/FSharp.NET.Sdk/Sdk/Sdk.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.Docker.Sdk/Sdk/Sdk.props
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.Docker.Sdk/Sdk/Sdk.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Publish/.signature.p7s
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Publish/Sdk/Sdk.props
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Publish/Sdk/Sdk.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/ComputeTargets/Microsoft.NET.Sdk.Publish.ComputeFiles.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/CopyTargets/Microsoft.NET.Sdk.Publish.CopyFiles.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/DotNetCLIToolTargets/Microsoft.NET.Sdk.DotNetCLITool.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/Microsoft.NET.Sdk.Publish.props
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/Microsoft.NET.Sdk.Publish.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/PublishProfiles/FileSystem.pubxml
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/PublishProfiles/MSDeploy.pubxml
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/PublishProfiles/MSDeployPackage.pubxml
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/PublishTargets/Microsoft.NET.Sdk.Publish.Docker.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/PublishTargets/Microsoft.NET.Sdk.Publish.FileSystem.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/PublishTargets/Microsoft.NET.Sdk.Publish.Kudu.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/PublishTargets/Microsoft.NET.Sdk.Publish.MSDeploy.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/PublishTargets/Microsoft.NET.Sdk.Publish.MSDeployPackage.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/TransformTargets/Microsoft.NET.Sdk.Publish.TransformFiles.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Publish/tools/net46/Microsoft.NET.Sdk.Publish.Tasks.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Publish/tools/net46/Microsoft.Web.Delegation.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Publish/tools/net46/Microsoft.Web.Deployment.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Publish/tools/netcoreapp1.0/Microsoft.NET.Sdk.Publish.Tasks.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Razor/.signature.p7s
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Razor/Sdk/Sdk.props
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Razor/Sdk/Sdk.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Razor/build/netstandard2.0/Microsoft.NET.Sdk.Razor.Compilation.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Razor/build/netstandard2.0/Microsoft.NET.Sdk.Razor.DesignTime.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Razor/build/netstandard2.0/Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Razor/build/netstandard2.0/Microsoft.NET.Sdk.Razor.props
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Razor/build/netstandard2.0/Rules/RazorConfiguration.xaml
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Razor/build/netstandard2.0/Rules/RazorExtension.xaml
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Razor/build/netstandard2.0/Rules/RazorGeneral.xaml
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Razor/build/netstandard2.0/Rules/RazorGenerateWithTargetPath.xaml
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Razor/build/netstandard2.0/Sdk.Razor.CurrentVersion.props
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Razor/build/netstandard2.0/Sdk.Razor.CurrentVersion.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Razor/buildMultiTargeting/Microsoft.NET.Sdk.Razor.props
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Razor/buildMultiTargeting/Sdk.Razor.CurrentVersion.MultiTargeting.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Web.ProjectSystem/.signature.p7s
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Web.ProjectSystem/Sdk/Sdk.props
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Web.ProjectSystem/Sdk/Sdk.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Web.ProjectSystem/build/netstandard1.0/Microsoft.NET.Sdk.Web.ProjectSystem.props
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Web.ProjectSystem/build/netstandard1.0/Microsoft.NET.Sdk.Web.ProjectSystem.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Web/.signature.p7s
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Web/Sdk/Sdk.DefaultItems.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Web/Sdk/Sdk.props
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Web/Sdk/Sdk.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/.signature.p7s
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/Sdk/Sdk.props
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/Sdk/Sdk.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/GenerateDeps/GenerateDeps.proj
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.ComposeStore.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.ConflictResolution.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.CrossGen.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.DefaultAssemblyInfo.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.DefaultOutputPaths.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.DefaultPackageConflictOverrides.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.DisableStandardFrameworkResolution.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.GenerateAssemblyInfo.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.NuGetOfflineCache.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.ObsoleteReferences.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.PackTool.props
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.PackTool.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.PreserveCompilationContext.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Publish.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.RuntimeIdentifierInference.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.BeforeCommon.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.BeforeCommonCrossTargeting.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.CSharp.props
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.CSharp.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.Common.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.CrossTargeting.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.DefaultItems.props
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.DefaultItems.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.FSharp.props
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.FSharp.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.FSharpTargetsShim.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.VisualBasic.props
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.VisualBasic.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.props
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.SupportedTargetFrameworks.props
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.TargetFrameworkInference.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/Microsoft.DotNet.PlatformAbstractions.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/Microsoft.Extensions.DependencyModel.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/Microsoft.NET.Build.Tasks.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/Newtonsoft.Json.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/NuGet.Common.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/NuGet.Configuration.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/NuGet.DependencyResolver.Core.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/NuGet.Frameworks.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/NuGet.LibraryModel.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/NuGet.Packaging.Core.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/NuGet.Packaging.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/NuGet.ProjectModel.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/NuGet.Protocol.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/NuGet.Versioning.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/System.Collections.Immutable.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/System.Reflection.Metadata.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/System.Runtime.InteropServices.RuntimeInformation.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/Microsoft.NET.Build.Tasks.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/.signature.p7s
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/NuGet.Build.Tasks.Pack.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/NuGet.Build.Tasks.Pack.xml
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/Desktop/NuGet.Build.Tasks.Pack.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/Desktop/NuGet.Build.Tasks.Pack.xml
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/build/NuGet.Build.Tasks.Pack.targets
-share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/buildCrossTargeting/NuGet.Build.Tasks.Pack.targets
-share/dotnet/sdk/3.0.100-preview1-009019/System.CodeDom.dll
-share/dotnet/sdk/3.0.100-preview1-009019/System.Text.Encoding.CodePages.dll
-share/dotnet/sdk/3.0.100-preview1-009019/System.Xml.XPath.XmlDocument.dll
-share/dotnet/sdk/3.0.100-preview1-009019/Templates/microsoft.dotnet.common.itemtemplates.1.0.2-beta3.nupkg
-share/dotnet/sdk/3.0.100-preview1-009019/Templates/microsoft.dotnet.common.projecttemplates.2.1.1.0.2-beta3.nupkg
-share/dotnet/sdk/3.0.100-preview1-009019/Templates/microsoft.dotnet.test.projecttemplates.2.1.1.0.2-beta3.nupkg
-share/dotnet/sdk/3.0.100-preview1-009019/Templates/microsoft.dotnet.web.itemtemplates.2.2.0-preview1-34355.nupkg
-share/dotnet/sdk/3.0.100-preview1-009019/Templates/microsoft.dotnet.web.projecttemplates.2.2.2.2.0-preview1-34355.nupkg
-share/dotnet/sdk/3.0.100-preview1-009019/Templates/microsoft.dotnet.web.spa.projecttemplates.2.2.0-preview1-34355.nupkg
-share/dotnet/sdk/3.0.100-preview1-009019/TestHost/Microsoft.TestPlatform.CommunicationUtilities.dll
-share/dotnet/sdk/3.0.100-preview1-009019/TestHost/Microsoft.TestPlatform.CoreUtilities.dll
-share/dotnet/sdk/3.0.100-preview1-009019/TestHost/Microsoft.TestPlatform.CrossPlatEngine.dll
-share/dotnet/sdk/3.0.100-preview1-009019/TestHost/Microsoft.TestPlatform.PlatformAbstractions.dll
-share/dotnet/sdk/3.0.100-preview1-009019/TestHost/Microsoft.TestPlatform.Utilities.dll
-share/dotnet/sdk/3.0.100-preview1-009019/TestHost/Microsoft.VisualStudio.TestPlatform.Common.dll
-share/dotnet/sdk/3.0.100-preview1-009019/TestHost/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
-share/dotnet/sdk/3.0.100-preview1-009019/TestHost/Newtonsoft.Json.dll
-share/dotnet/sdk/3.0.100-preview1-009019/TestHost/System.Collections.Immutable.dll
-share/dotnet/sdk/3.0.100-preview1-009019/TestHost/System.Reflection.Metadata.dll
-share/dotnet/sdk/3.0.100-preview1-009019/TestHost/System.Runtime.InteropServices.RuntimeInformation.dll
-share/dotnet/sdk/3.0.100-preview1-009019/TestHost/datacollector.exe
-share/dotnet/sdk/3.0.100-preview1-009019/TestHost/datacollector.exe.config
-share/dotnet/sdk/3.0.100-preview1-009019/TestHost/testhost.exe
-share/dotnet/sdk/3.0.100-preview1-009019/TestHost/testhost.exe.config
-share/dotnet/sdk/3.0.100-preview1-009019/TestHost/testhost.x86.exe
-share/dotnet/sdk/3.0.100-preview1-009019/TestHost/testhost.x86.exe.config
-share/dotnet/sdk/3.0.100-preview1-009019/TestHost/x64/msdia140.dll
-share/dotnet/sdk/3.0.100-preview1-009019/TestHost/x64/msdia140.dll.manifest
-share/dotnet/sdk/3.0.100-preview1-009019/TestHost/x86/msdia140.dll
-share/dotnet/sdk/3.0.100-preview1-009019/TestHost/x86/msdia140.dll.manifest
-share/dotnet/sdk/3.0.100-preview1-009019/datacollector.deps.json
-share/dotnet/sdk/3.0.100-preview1-009019/datacollector.dll
-share/dotnet/sdk/3.0.100-preview1-009019/datacollector.dll.config
-share/dotnet/sdk/3.0.100-preview1-009019/datacollector.runtimeconfig.json
-share/dotnet/sdk/3.0.100-preview1-009019/dotnet.deps.json
-share/dotnet/sdk/3.0.100-preview1-009019/dotnet.dll
-share/dotnet/sdk/3.0.100-preview1-009019/dotnet.runtimeconfig.json
-share/dotnet/sdk/3.0.100-preview1-009019/libhostfxr.so
-share/dotnet/sdk/3.0.100-preview1-009019/libhostpolicy.so
-share/dotnet/sdk/3.0.100-preview1-009019/minimumMSBuildVersion
-share/dotnet/sdk/3.0.100-preview1-009019/nuGetPackagesArchive.lzma
-share/dotnet/sdk/3.0.100-preview1-009019/package.deps.json
-share/dotnet/sdk/3.0.100-preview1-009019/ref/mscorlib.dll
-share/dotnet/sdk/3.0.100-preview1-009019/ref/netstandard.dll
-share/dotnet/sdk/3.0.100-preview1-009019/runtimes/unix/lib/netstandard1.3/System.Security.Cryptography.ProtectedData.dll
-share/dotnet/sdk/3.0.100-preview1-009019/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll
-share/dotnet/sdk/3.0.100-preview1-009019/runtimes/win/lib/netstandard1.3/System.Security.Cryptography.ProtectedData.dll
-share/dotnet/sdk/3.0.100-preview1-009019/vstest.console.deps.json
-share/dotnet/sdk/3.0.100-preview1-009019/vstest.console.dll
-share/dotnet/sdk/3.0.100-preview1-009019/vstest.console.dll.config
-share/dotnet/sdk/3.0.100-preview1-009019/vstest.console.runtimeconfig.json
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Extensions/cs
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Extensions/de
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Extensions/es
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Extensions/fr
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Extensions/it
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Extensions/ja
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Extensions/ko
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Extensions/pl
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Extensions/pt-BR
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Extensions/ru
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Extensions/tr
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Extensions/zh-Hans
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Extensions/zh-Hant
-@dir share/dotnet/sdk/3.0.100-preview1-009019/FSharp/cs
-@dir share/dotnet/sdk/3.0.100-preview1-009019/FSharp/de
-@dir share/dotnet/sdk/3.0.100-preview1-009019/FSharp/en
-@dir share/dotnet/sdk/3.0.100-preview1-009019/FSharp/es
-@dir share/dotnet/sdk/3.0.100-preview1-009019/FSharp/fr
-@dir share/dotnet/sdk/3.0.100-preview1-009019/FSharp/it
-@dir share/dotnet/sdk/3.0.100-preview1-009019/FSharp/ja
-@dir share/dotnet/sdk/3.0.100-preview1-009019/FSharp/ko
-@dir share/dotnet/sdk/3.0.100-preview1-009019/FSharp/pl
-@dir share/dotnet/sdk/3.0.100-preview1-009019/FSharp/pt-BR
-@dir share/dotnet/sdk/3.0.100-preview1-009019/FSharp/ru
-@dir share/dotnet/sdk/3.0.100-preview1-009019/FSharp/tr
-@dir share/dotnet/sdk/3.0.100-preview1-009019/FSharp/zh-Hans
-@dir share/dotnet/sdk/3.0.100-preview1-009019/FSharp/zh-Hant
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/cs
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/de
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/es
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/fr
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/it
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/ja
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/ko
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/pl
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/pt-BR
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/ru
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/tr
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/zh-Hans
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/zh-Hant
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/cs
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/de
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/es
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/fr
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/it
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/ja
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/ko
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/pl
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/pt-BR
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/ru
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/tr
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/zh-Hans
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/bincore/zh-Hant
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/net46/cs
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/net46/de
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/net46/es
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/net46/fr
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/net46/it
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/net46/ja
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/net46/ko
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/net46/pl
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/net46/pt-BR
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/net46/ru
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/net46/tr
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/net46/zh-Hans
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/net46/zh-Hant
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/netcoreapp2.0/cs
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/netcoreapp2.0/de
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/netcoreapp2.0/es
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/netcoreapp2.0/fr
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/netcoreapp2.0/it
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/netcoreapp2.0/ja
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/netcoreapp2.0/ko
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/netcoreapp2.0/pl
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/netcoreapp2.0/pt-BR
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/netcoreapp2.0/ru
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/netcoreapp2.0/tr
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/netcoreapp2.0/zh-Hans
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Roslyn/netcoreapp2.0/zh-Hant
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/cs
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/de
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/es
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/fr
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/it
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/ja
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/ko
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/pl
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/pt-BR
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/ru
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/tr
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/zh-Hans
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/net46/zh-Hant
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/cs
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/de
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/es
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/fr
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/it
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/ja
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/ko
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/pl
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/pt-BR
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/ru
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/tr
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/zh-Hans
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/zh-Hant
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/Microsoft.NET.Sdk.Publish/tools/net46/en-US
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/cs
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/de
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/es
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/fr
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/it
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/ja
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/ko
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/pl
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/pt-BR
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/ru
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/tr
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/zh-Hans
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/zh-Hant
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/Desktop/cs
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/Desktop/de
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/Desktop/es
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/Desktop/fr
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/Desktop/it
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/Desktop/ja
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/Desktop/ko
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/Desktop/pl
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/Desktop/pt-BR
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/Desktop/ru
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/Desktop/tr
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/Desktop/zh-Hans
-@dir share/dotnet/sdk/3.0.100-preview1-009019/Sdks/NuGet.Build.Tasks.Pack/Desktop/zh-Hant
-@dir share/dotnet/sdk/3.0.100-preview1-009019/TestHost/cs
-@dir share/dotnet/sdk/3.0.100-preview1-009019/TestHost/de
-@dir share/dotnet/sdk/3.0.100-preview1-009019/TestHost/es
-@dir share/dotnet/sdk/3.0.100-preview1-009019/TestHost/fr
-@dir share/dotnet/sdk/3.0.100-preview1-009019/TestHost/it
-@dir share/dotnet/sdk/3.0.100-preview1-009019/TestHost/ja
-@dir share/dotnet/sdk/3.0.100-preview1-009019/TestHost/ko
-@dir share/dotnet/sdk/3.0.100-preview1-009019/TestHost/pl
-@dir share/dotnet/sdk/3.0.100-preview1-009019/TestHost/pt-BR
-@dir share/dotnet/sdk/3.0.100-preview1-009019/TestHost/ru
-@dir share/dotnet/sdk/3.0.100-preview1-009019/TestHost/tr
-@dir share/dotnet/sdk/3.0.100-preview1-009019/TestHost/zh-Hans
-@dir share/dotnet/sdk/3.0.100-preview1-009019/TestHost/zh-Hant
-@dir share/dotnet/sdk/3.0.100-preview1-009019/cs
-@dir share/dotnet/sdk/3.0.100-preview1-009019/de
-@dir share/dotnet/sdk/3.0.100-preview1-009019/en
-@dir share/dotnet/sdk/3.0.100-preview1-009019/es
-@dir share/dotnet/sdk/3.0.100-preview1-009019/fr
-@dir share/dotnet/sdk/3.0.100-preview1-009019/it
-@dir share/dotnet/sdk/3.0.100-preview1-009019/ja
-@dir share/dotnet/sdk/3.0.100-preview1-009019/ko
-@dir share/dotnet/sdk/3.0.100-preview1-009019/pl
-@dir share/dotnet/sdk/3.0.100-preview1-009019/pt-BR
-@dir share/dotnet/sdk/3.0.100-preview1-009019/ru
-@dir share/dotnet/sdk/3.0.100-preview1-009019/tr
-@dir share/dotnet/sdk/3.0.100-preview1-009019/zh-Hans
-@dir share/dotnet/sdk/3.0.100-preview1-009019/zh-Hant
+share/dotnet/sdk/%%SDK_VERSION%%/.version
+share/dotnet/sdk/%%SDK_VERSION%%/15.0/Microsoft.Common.CrossTargeting.targets/ImportAfter/Microsoft.TestPlatform.CrossTargeting.targets
+share/dotnet/sdk/%%SDK_VERSION%%/15.0/Microsoft.Common.props
+share/dotnet/sdk/%%SDK_VERSION%%/15.0/Microsoft.Common.targets/ImportAfter/Microsoft.NET.Build.Extensions.targets
+share/dotnet/sdk/%%SDK_VERSION%%/15.0/Microsoft.Common.targets/ImportAfter/Microsoft.TestPlatform.ImportAfter.targets
+share/dotnet/sdk/%%SDK_VERSION%%/15.0/SolutionFile/ImportAfter/Microsoft.NuGet.ImportAfter.targets
+share/dotnet/sdk/%%SDK_VERSION%%/AppHostTemplate/apphost
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-dev-certs/2.2.0-preview1-34355/.signature.p7s
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-dev-certs/2.2.0-preview1-34355/dotnet-dev-certs.2.2.0-preview1-34355.nupkg
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-dev-certs/2.2.0-preview1-34355/dotnet-dev-certs.2.2.0-preview1-34355.nupkg.sha512
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-dev-certs/2.2.0-preview1-34355/dotnet-dev-certs.nuspec
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-dev-certs/2.2.0-preview1-34355/tools/netcoreapp2.2/any/DotnetToolSettings.xml
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-dev-certs/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-dev-certs.deps.json
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-dev-certs/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-dev-certs.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-dev-certs/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-dev-certs.pdb
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-dev-certs/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-dev-certs.runtimeconfig.json
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-dev-certs/2.2.0-preview1-34355/tools/netcoreapp2.2/any/shims/win-x64/dotnet-dev-certs.exe
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-dev-certs/2.2.0-preview1-34355/tools/netcoreapp2.2/any/shims/win-x86/dotnet-dev-certs.exe
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-ef/2.2.0-preview1-34355/.signature.p7s
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-ef/2.2.0-preview1-34355/dotnet-ef.2.2.0-preview1-34355.nupkg
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-ef/2.2.0-preview1-34355/dotnet-ef.2.2.0-preview1-34355.nupkg.sha512
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-ef/2.2.0-preview1-34355/dotnet-ef.nuspec
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-ef/2.2.0-preview1-34355/tools/netcoreapp2.2/any/DotnetToolSettings.xml
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-ef/2.2.0-preview1-34355/tools/netcoreapp2.2/any/Newtonsoft.Json.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-ef/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-ef.deps.json
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-ef/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-ef.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-ef/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-ef.runtimeconfig.json
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-ef/2.2.0-preview1-34355/tools/netcoreapp2.2/any/shims/win-x64/dotnet-ef.exe
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-ef/2.2.0-preview1-34355/tools/netcoreapp2.2/any/shims/win-x86/dotnet-ef.exe
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-ef/2.2.0-preview1-34355/tools/netcoreapp2.2/any/tools/net461/any/ef.exe
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-ef/2.2.0-preview1-34355/tools/netcoreapp2.2/any/tools/net461/win-x86/ef.exe
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-ef/2.2.0-preview1-34355/tools/netcoreapp2.2/any/tools/netcoreapp2.0/any/ef.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-ef/2.2.0-preview1-34355/tools/netcoreapp2.2/any/tools/netcoreapp2.0/any/ef.runtimeconfig.json
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/.signature.p7s
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/dotnet-sql-cache.2.2.0-preview1-34355.nupkg
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/dotnet-sql-cache.2.2.0-preview1-34355.nupkg.sha512
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/dotnet-sql-cache.nuspec
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/DotnetToolSettings.xml
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/System.Data.SqlClient.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/System.Runtime.CompilerServices.Unsafe.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/System.Text.Encoding.CodePages.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-sql-cache.deps.json
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-sql-cache.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-sql-cache.pdb
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-sql-cache.runtimeconfig.json
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/runtimes/win-arm64/native/sni.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/runtimes/win-x64/native/sni.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/runtimes/win-x86/native/sni.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/shims/win-x64/dotnet-sql-cache.exe
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-sql-cache/2.2.0-preview1-34355/tools/netcoreapp2.2/any/shims/win-x86/dotnet-sql-cache.exe
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/.signature.p7s
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/dotnet-user-secrets.2.2.0-preview1-34355.nupkg
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/dotnet-user-secrets.2.2.0-preview1-34355.nupkg.sha512
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/dotnet-user-secrets.nuspec
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/DotnetToolSettings.xml
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/Microsoft.Extensions.Configuration.Abstractions.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/Microsoft.Extensions.Configuration.FileExtensions.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/Microsoft.Extensions.Configuration.Json.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/Microsoft.Extensions.Configuration.UserSecrets.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/Microsoft.Extensions.Configuration.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/Microsoft.Extensions.FileProviders.Abstractions.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/Microsoft.Extensions.FileProviders.Physical.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/Microsoft.Extensions.FileSystemGlobbing.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/Microsoft.Extensions.Primitives.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/Newtonsoft.Json.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/System.Runtime.CompilerServices.Unsafe.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/assets/SecretManager.targets
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-user-secrets.deps.json
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-user-secrets.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-user-secrets.pdb
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-user-secrets.runtimeconfig.json
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/shims/win-x64/dotnet-user-secrets.exe
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-user-secrets/2.2.0-preview1-34355/tools/netcoreapp2.2/any/shims/win-x86/dotnet-user-secrets.exe
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-watch/2.2.0-preview1-34355/.signature.p7s
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-watch/2.2.0-preview1-34355/dotnet-watch.2.2.0-preview1-34355.nupkg
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-watch/2.2.0-preview1-34355/dotnet-watch.2.2.0-preview1-34355.nupkg.sha512
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-watch/2.2.0-preview1-34355/dotnet-watch.nuspec
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-watch/2.2.0-preview1-34355/tools/netcoreapp2.2/any/DotnetToolSettings.xml
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-watch/2.2.0-preview1-34355/tools/netcoreapp2.2/any/assets/DotNetWatch.targets
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-watch/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-watch.deps.json
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-watch/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-watch.dll
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-watch/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-watch.pdb
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-watch/2.2.0-preview1-34355/tools/netcoreapp2.2/any/dotnet-watch.runtimeconfig.json
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-watch/2.2.0-preview1-34355/tools/netcoreapp2.2/any/shims/win-x64/dotnet-watch.exe
+share/dotnet/sdk/%%SDK_VERSION%%/DotnetTools/dotnet-watch/2.2.0-preview1-34355/tools/netcoreapp2.2/any/shims/win-x86/dotnet-watch.exe
+share/dotnet/sdk/%%SDK_VERSION%%/Extensions/Microsoft.TestPlatform.Extensions.BlameDataCollector.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Extensions/Microsoft.TestPlatform.Extensions.EventLogCollector.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Extensions/Microsoft.TestPlatform.TestHostRuntimeProvider.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Extensions/Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.dll
+share/dotnet/sdk/%%SDK_VERSION%%/FSharp/FSharp.Build.dll
+share/dotnet/sdk/%%SDK_VERSION%%/FSharp/FSharp.Compiler.Interactive.Settings.dll
+share/dotnet/sdk/%%SDK_VERSION%%/FSharp/FSharp.Compiler.Private.dll
+share/dotnet/sdk/%%SDK_VERSION%%/FSharp/FSharp.Core.dll
+share/dotnet/sdk/%%SDK_VERSION%%/FSharp/Microsoft.FSharp.NetSdk.props
+share/dotnet/sdk/%%SDK_VERSION%%/FSharp/Microsoft.FSharp.NetSdk.targets
+share/dotnet/sdk/%%SDK_VERSION%%/FSharp/Microsoft.FSharp.Overrides.NetSdk.targets
+share/dotnet/sdk/%%SDK_VERSION%%/FSharp/Microsoft.FSharp.Targets
+share/dotnet/sdk/%%SDK_VERSION%%/FSharp/Microsoft.Portable.FSharp.Targets
+share/dotnet/sdk/%%SDK_VERSION%%/FSharp/RunFsc.cmd
+share/dotnet/sdk/%%SDK_VERSION%%/FSharp/RunFsc.sh
+share/dotnet/sdk/%%SDK_VERSION%%/FSharp/default.win32manifest
+share/dotnet/sdk/%%SDK_VERSION%%/FSharp/fsc.deps.json
+share/dotnet/sdk/%%SDK_VERSION%%/FSharp/fsc.exe
+share/dotnet/sdk/%%SDK_VERSION%%/FSharp/fsc.runtimeconfig.json
+share/dotnet/sdk/%%SDK_VERSION%%/FSharp/fsi.deps.json
+share/dotnet/sdk/%%SDK_VERSION%%/FSharp/fsi.exe
+share/dotnet/sdk/%%SDK_VERSION%%/FSharp/fsi.runtimeconfig.json
+share/dotnet/sdk/%%SDK_VERSION%%/MSBuild.deps.json
+share/dotnet/sdk/%%SDK_VERSION%%/MSBuild.dll
+share/dotnet/sdk/%%SDK_VERSION%%/MSBuild.runtimeconfig.json
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.ApplicationInsights.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.AspNetCore.DeveloperCertificates.XPlat.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.Build.Framework.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.Build.NuGetSdkResolver.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.Build.Tasks.Core.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.Build.Utilities.Core.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.Build.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.CSharp.CrossTargeting.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.CSharp.CurrentVersion.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.CSharp.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.CodeAnalysis.CSharp.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.CodeAnalysis.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.Common.CrossTargeting.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.Common.CurrentVersion.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.Common.overridetasks
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.Common.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.Common.tasks
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.DotNet.Archive.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.DotNet.Cli.CommandLine.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.DotNet.Cli.Sln.Internal.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.DotNet.Cli.Utils.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.DotNet.Configurer.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.DotNet.InternalAbstractions.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.DotNet.PlatformAbstractions.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.DotNet.ProjectJsonMigration.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.DotNet.Tools.MigrateCommand.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.Extensions.CommandLineUtils.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.Extensions.DependencyModel.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.NETCoreSdk.BundledCliTools.props
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.NETCoreSdk.BundledVersions.props
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.NETFramework.CurrentVersion.props
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.NETFramework.CurrentVersion.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.NETFramework.props
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.NETFramework.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.TemplateEngine.Abstractions.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.TemplateEngine.Cli.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.TemplateEngine.Core.Contracts.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.TemplateEngine.Core.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.TemplateEngine.Edge.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.TemplateEngine.Orchestrator.RunnableProjects.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.TemplateEngine.Utils.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.TestPlatform.Build.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.TestPlatform.CommunicationUtilities.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.TestPlatform.CoreUtilities.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.TestPlatform.CrossPlatEngine.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.TestPlatform.PlatformAbstractions.deps.json
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.TestPlatform.PlatformAbstractions.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.TestPlatform.Utilities.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.TestPlatform.VsTestConsole.TranslationLayer.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.TestPlatform.VsTestConsole.TranslationLayer.xml
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.TestPlatform.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.VisualBasic.CrossTargeting.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.VisualBasic.CurrentVersion.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.VisualBasic.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.VisualStudio.TestPlatform.Client.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.VisualStudio.TestPlatform.Common.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.VisualStudioVersion.v11.Common.props
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.VisualStudioVersion.v12.Common.props
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft.VisualStudioVersion.v14.Common.props
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/Microsoft.NET.Build.Extensions.ConflictResolution.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/Microsoft.NET.Build.Extensions.NETFramework.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/Microsoft.NET.Build.Extensions.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/Microsoft.NET.DefaultPackageConflictOverrides.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/Microsoft.Win32.Primitives.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.AppContext.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Collections.Concurrent.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Collections.NonGeneric.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Collections.Specialized.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Collections.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.ComponentModel.EventBasedAsync.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.ComponentModel.Primitives.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.ComponentModel.TypeConverter.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.ComponentModel.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Console.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Data.Common.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Diagnostics.Contracts.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Diagnostics.Debug.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Diagnostics.FileVersionInfo.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Diagnostics.Process.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Diagnostics.StackTrace.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Diagnostics.TextWriterTraceListener.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Diagnostics.Tools.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Diagnostics.TraceSource.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Diagnostics.Tracing.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Drawing.Primitives.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Dynamic.Runtime.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Globalization.Calendars.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Globalization.Extensions.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Globalization.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.IO.Compression.ZipFile.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.IO.Compression.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.IO.FileSystem.DriveInfo.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.IO.FileSystem.Primitives.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.IO.FileSystem.Watcher.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.IO.FileSystem.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.IO.IsolatedStorage.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.IO.MemoryMappedFiles.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.IO.Pipes.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.IO.UnmanagedMemoryStream.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.IO.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Linq.Expressions.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Linq.Parallel.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Linq.Queryable.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Linq.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Net.Http.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Net.NameResolution.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Net.NetworkInformation.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Net.Ping.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Net.Primitives.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Net.Requests.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Net.Security.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Net.Sockets.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Net.WebHeaderCollection.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Net.WebSockets.Client.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Net.WebSockets.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.ObjectModel.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Reflection.Extensions.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Reflection.Primitives.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Reflection.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Resources.Reader.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Resources.ResourceManager.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Resources.Writer.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Runtime.CompilerServices.VisualC.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Runtime.Extensions.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Runtime.Handles.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Runtime.InteropServices.RuntimeInformation.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Runtime.InteropServices.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Runtime.Numerics.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Runtime.Serialization.Formatters.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Runtime.Serialization.Json.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Runtime.Serialization.Primitives.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Runtime.Serialization.Xml.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Runtime.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Security.Claims.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Security.Cryptography.Algorithms.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Security.Cryptography.Csp.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Security.Cryptography.Encoding.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Security.Cryptography.Primitives.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Security.Cryptography.X509Certificates.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Security.Principal.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Security.SecureString.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Text.Encoding.Extensions.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Text.Encoding.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Text.RegularExpressions.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Threading.Overlapped.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Threading.Tasks.Parallel.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Threading.Tasks.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Threading.Thread.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Threading.ThreadPool.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Threading.Timer.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Threading.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.ValueTuple.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Xml.ReaderWriter.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Xml.XDocument.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Xml.XPath.XDocument.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Xml.XPath.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Xml.XmlDocument.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/System.Xml.XmlSerializer.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/netfx.force.conflicts.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net461/lib/netstandard.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net462/lib/System.Runtime.InteropServices.RuntimeInformation.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net47/lib/System.Runtime.InteropServices.RuntimeInformation.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net47/lib/System.Security.Cryptography.Algorithms.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net47/lib/System.ValueTuple.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net471/_._
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/System.Data.Common.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/System.Diagnostics.StackTrace.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/System.Diagnostics.Tracing.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/System.Globalization.Extensions.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/System.IO.Compression.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/System.Net.Http.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/System.Net.Sockets.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/System.Runtime.Serialization.Primitives.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/System.Security.Cryptography.Algorithms.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/System.Security.SecureString.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/System.Threading.Overlapped.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/System.Xml.XPath.XDocument.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/net471/lib/netfx.force.conflicts.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/Microsoft.NET.Build.Extensions.Tasks.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Newtonsoft.Json.dll
+share/dotnet/sdk/%%SDK_VERSION%%/NuGet.Build.Tasks.dll
+share/dotnet/sdk/%%SDK_VERSION%%/NuGet.CommandLine.XPlat.deps.json
+share/dotnet/sdk/%%SDK_VERSION%%/NuGet.CommandLine.XPlat.dll
+share/dotnet/sdk/%%SDK_VERSION%%/NuGet.CommandLine.XPlat.runtimeconfig.json
+share/dotnet/sdk/%%SDK_VERSION%%/NuGet.Commands.dll
+share/dotnet/sdk/%%SDK_VERSION%%/NuGet.Common.dll
+share/dotnet/sdk/%%SDK_VERSION%%/NuGet.Configuration.dll
+share/dotnet/sdk/%%SDK_VERSION%%/NuGet.Credentials.dll
+share/dotnet/sdk/%%SDK_VERSION%%/NuGet.DependencyResolver.Core.dll
+share/dotnet/sdk/%%SDK_VERSION%%/NuGet.Frameworks.dll
+share/dotnet/sdk/%%SDK_VERSION%%/NuGet.LibraryModel.dll
+share/dotnet/sdk/%%SDK_VERSION%%/NuGet.Packaging.Core.dll
+share/dotnet/sdk/%%SDK_VERSION%%/NuGet.Packaging.dll
+share/dotnet/sdk/%%SDK_VERSION%%/NuGet.ProjectModel.dll
+share/dotnet/sdk/%%SDK_VERSION%%/NuGet.Protocol.dll
+share/dotnet/sdk/%%SDK_VERSION%%/NuGet.Versioning.dll
+share/dotnet/sdk/%%SDK_VERSION%%/NuGet.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/Microsoft.CSharp.Core.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/Microsoft.Managed.Core.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/Microsoft.VisualBasic.Core.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/Microsoft.CodeAnalysis.CSharp.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/Microsoft.CodeAnalysis.VisualBasic.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/Microsoft.CodeAnalysis.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/RunCsc
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/RunCsc.cmd
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/RunVbc
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/RunVbc.cmd
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/VBCSCompiler.deps.json
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/VBCSCompiler.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/VBCSCompiler.runtimeconfig.json
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/csc.deps.json
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/csc.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/csc.runtimeconfig.json
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/runtimes/unix/lib/netstandard1.3/System.IO.Pipes.AccessControl.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/runtimes/unix/lib/netstandard1.3/System.Text.Encoding.CodePages.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/runtimes/win-x64/native/Microsoft.DiaSymReader.Native.amd64.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/runtimes/win-x86/native/Microsoft.DiaSymReader.Native.x86.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/runtimes/win/lib/netstandard1.3/System.IO.Pipes.AccessControl.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/runtimes/win/lib/netstandard1.3/System.Text.Encoding.CodePages.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/runtimes/win/native/Microsoft.DiaSymReader.Native.amd64.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/runtimes/win/native/Microsoft.DiaSymReader.Native.arm.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/runtimes/win/native/Microsoft.DiaSymReader.Native.x86.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/runtimes/win8-arm/native/Microsoft.DiaSymReader.Native.arm.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/vbc.deps.json
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/vbc.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/vbc.runtimeconfig.json
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/runtimes/unix/lib/netstandard1.3/System.IO.Pipes.AccessControl.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/runtimes/win/lib/netstandard1.3/System.IO.Pipes.AccessControl.dll
+share/dotnet/sdk/%%SDK_VERSION%%/SdkResolvers/Microsoft.Build.NuGetSdkResolver/Microsoft.Build.NuGetSdkResolver.xml
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/FSharp.NET.Sdk/Sdk/Sdk.OnRestore.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/FSharp.NET.Sdk/Sdk/Sdk.props
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/FSharp.NET.Sdk/Sdk/Sdk.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.Docker.Sdk/Sdk/Sdk.props
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.Docker.Sdk/Sdk/Sdk.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Publish/.signature.p7s
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Publish/Sdk/Sdk.props
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Publish/Sdk/Sdk.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/ComputeTargets/Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/CopyTargets/Microsoft.NET.Sdk.Publish.CopyFiles.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/DotNetCLIToolTargets/Microsoft.NET.Sdk.DotNetCLITool.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/Microsoft.NET.Sdk.Publish.props
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/Microsoft.NET.Sdk.Publish.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/PublishProfiles/FileSystem.pubxml
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/PublishProfiles/MSDeploy.pubxml
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/PublishProfiles/MSDeployPackage.pubxml
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/PublishTargets/Microsoft.NET.Sdk.Publish.Docker.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/PublishTargets/Microsoft.NET.Sdk.Publish.FileSystem.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/PublishTargets/Microsoft.NET.Sdk.Publish.Kudu.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/PublishTargets/Microsoft.NET.Sdk.Publish.MSDeploy.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/PublishTargets/Microsoft.NET.Sdk.Publish.MSDeployPackage.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Publish/build/netstandard1.0/TransformTargets/Microsoft.NET.Sdk.Publish.TransformFiles.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Publish/tools/net46/Microsoft.NET.Sdk.Publish.Tasks.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Publish/tools/net46/Microsoft.Web.Delegation.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Publish/tools/net46/Microsoft.Web.Deployment.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Publish/tools/netcoreapp1.0/Microsoft.NET.Sdk.Publish.Tasks.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Razor/.signature.p7s
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Razor/Sdk/Sdk.props
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Razor/Sdk/Sdk.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Razor/build/netstandard2.0/Microsoft.NET.Sdk.Razor.Compilation.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Razor/build/netstandard2.0/Microsoft.NET.Sdk.Razor.DesignTime.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Razor/build/netstandard2.0/Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Razor/build/netstandard2.0/Microsoft.NET.Sdk.Razor.props
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Razor/build/netstandard2.0/Rules/RazorConfiguration.xaml
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Razor/build/netstandard2.0/Rules/RazorExtension.xaml
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Razor/build/netstandard2.0/Rules/RazorGeneral.xaml
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Razor/build/netstandard2.0/Rules/RazorGenerateWithTargetPath.xaml
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Razor/build/netstandard2.0/Sdk.Razor.CurrentVersion.props
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Razor/build/netstandard2.0/Sdk.Razor.CurrentVersion.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Razor/buildMultiTargeting/Microsoft.NET.Sdk.Razor.props
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Razor/buildMultiTargeting/Sdk.Razor.CurrentVersion.MultiTargeting.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Web.ProjectSystem/.signature.p7s
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Web.ProjectSystem/Sdk/Sdk.props
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Web.ProjectSystem/Sdk/Sdk.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Web.ProjectSystem/build/netstandard1.0/Microsoft.NET.Sdk.Web.ProjectSystem.props
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Web.ProjectSystem/build/netstandard1.0/Microsoft.NET.Sdk.Web.ProjectSystem.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Web/.signature.p7s
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Web/Sdk/Sdk.DefaultItems.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Web/Sdk/Sdk.props
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Web/Sdk/Sdk.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/.signature.p7s
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/Sdk/Sdk.props
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/Sdk/Sdk.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/GenerateDeps/GenerateDeps.proj
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.ComposeStore.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.ConflictResolution.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.CrossGen.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.DefaultAssemblyInfo.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.DefaultOutputPaths.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.DefaultPackageConflictOverrides.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.DisableStandardFrameworkResolution.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.GenerateAssemblyInfo.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.NuGetOfflineCache.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.ObsoleteReferences.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.PackTool.props
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.PackTool.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.PreserveCompilationContext.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Publish.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.RuntimeIdentifierInference.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.BeforeCommon.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.BeforeCommonCrossTargeting.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.CSharp.props
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.CSharp.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.Common.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.CrossTargeting.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.DefaultItems.props
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.DefaultItems.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.FSharp.props
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.FSharp.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.FSharpTargetsShim.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.VisualBasic.props
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.VisualBasic.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.props
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.SupportedTargetFrameworks.props
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.TargetFrameworkInference.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/Microsoft.DotNet.PlatformAbstractions.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/Microsoft.Extensions.DependencyModel.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/Microsoft.NET.Build.Tasks.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/Newtonsoft.Json.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/NuGet.Common.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/NuGet.Configuration.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/NuGet.DependencyResolver.Core.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/NuGet.Frameworks.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/NuGet.LibraryModel.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/NuGet.Packaging.Core.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/NuGet.Packaging.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/NuGet.ProjectModel.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/NuGet.Protocol.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/NuGet.Versioning.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/System.Collections.Immutable.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/System.Reflection.Metadata.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/System.Runtime.InteropServices.RuntimeInformation.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/Microsoft.NET.Build.Tasks.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/.signature.p7s
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/NuGet.Build.Tasks.Pack.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/NuGet.Build.Tasks.Pack.xml
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/Desktop/NuGet.Build.Tasks.Pack.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/Desktop/NuGet.Build.Tasks.Pack.xml
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/build/NuGet.Build.Tasks.Pack.targets
+share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/buildCrossTargeting/NuGet.Build.Tasks.Pack.targets
+share/dotnet/sdk/%%SDK_VERSION%%/System.CodeDom.dll
+share/dotnet/sdk/%%SDK_VERSION%%/System.Text.Encoding.CodePages.dll
+share/dotnet/sdk/%%SDK_VERSION%%/System.Xml.XPath.XmlDocument.dll
+share/dotnet/sdk/%%SDK_VERSION%%/Templates/microsoft.dotnet.common.itemtemplates.1.0.2-beta3.nupkg
+share/dotnet/sdk/%%SDK_VERSION%%/Templates/microsoft.dotnet.common.projecttemplates.2.1.1.0.2-beta3.nupkg
+share/dotnet/sdk/%%SDK_VERSION%%/Templates/microsoft.dotnet.test.projecttemplates.2.1.1.0.2-beta3.nupkg
+share/dotnet/sdk/%%SDK_VERSION%%/Templates/microsoft.dotnet.web.itemtemplates.2.2.0-preview1-34355.nupkg
+share/dotnet/sdk/%%SDK_VERSION%%/Templates/microsoft.dotnet.web.projecttemplates.2.2.2.2.0-preview1-34355.nupkg
+share/dotnet/sdk/%%SDK_VERSION%%/Templates/microsoft.dotnet.web.spa.projecttemplates.2.2.0-preview1-34355.nupkg
+share/dotnet/sdk/%%SDK_VERSION%%/TestHost/Microsoft.TestPlatform.CommunicationUtilities.dll
+share/dotnet/sdk/%%SDK_VERSION%%/TestHost/Microsoft.TestPlatform.CoreUtilities.dll
+share/dotnet/sdk/%%SDK_VERSION%%/TestHost/Microsoft.TestPlatform.CrossPlatEngine.dll
+share/dotnet/sdk/%%SDK_VERSION%%/TestHost/Microsoft.TestPlatform.PlatformAbstractions.dll
+share/dotnet/sdk/%%SDK_VERSION%%/TestHost/Microsoft.TestPlatform.Utilities.dll
+share/dotnet/sdk/%%SDK_VERSION%%/TestHost/Microsoft.VisualStudio.TestPlatform.Common.dll
+share/dotnet/sdk/%%SDK_VERSION%%/TestHost/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+share/dotnet/sdk/%%SDK_VERSION%%/TestHost/Newtonsoft.Json.dll
+share/dotnet/sdk/%%SDK_VERSION%%/TestHost/System.Collections.Immutable.dll
+share/dotnet/sdk/%%SDK_VERSION%%/TestHost/System.Reflection.Metadata.dll
+share/dotnet/sdk/%%SDK_VERSION%%/TestHost/System.Runtime.InteropServices.RuntimeInformation.dll
+share/dotnet/sdk/%%SDK_VERSION%%/TestHost/datacollector.exe
+share/dotnet/sdk/%%SDK_VERSION%%/TestHost/datacollector.exe.config
+share/dotnet/sdk/%%SDK_VERSION%%/TestHost/testhost.exe
+share/dotnet/sdk/%%SDK_VERSION%%/TestHost/testhost.exe.config
+share/dotnet/sdk/%%SDK_VERSION%%/TestHost/testhost.x86.exe
+share/dotnet/sdk/%%SDK_VERSION%%/TestHost/testhost.x86.exe.config
+share/dotnet/sdk/%%SDK_VERSION%%/TestHost/x64/msdia140.dll
+share/dotnet/sdk/%%SDK_VERSION%%/TestHost/x64/msdia140.dll.manifest
+share/dotnet/sdk/%%SDK_VERSION%%/TestHost/x86/msdia140.dll
+share/dotnet/sdk/%%SDK_VERSION%%/TestHost/x86/msdia140.dll.manifest
+share/dotnet/sdk/%%SDK_VERSION%%/datacollector.deps.json
+share/dotnet/sdk/%%SDK_VERSION%%/datacollector.dll
+share/dotnet/sdk/%%SDK_VERSION%%/datacollector.dll.config
+share/dotnet/sdk/%%SDK_VERSION%%/datacollector.runtimeconfig.json
+share/dotnet/sdk/%%SDK_VERSION%%/dotnet.deps.json
+share/dotnet/sdk/%%SDK_VERSION%%/dotnet.dll
+share/dotnet/sdk/%%SDK_VERSION%%/dotnet.runtimeconfig.json
+share/dotnet/sdk/%%SDK_VERSION%%/libhostfxr.so
+share/dotnet/sdk/%%SDK_VERSION%%/libhostpolicy.so
+share/dotnet/sdk/%%SDK_VERSION%%/minimumMSBuildVersion
+share/dotnet/sdk/%%SDK_VERSION%%/nuGetPackagesArchive.lzma
+share/dotnet/sdk/%%SDK_VERSION%%/package.deps.json
+share/dotnet/sdk/%%SDK_VERSION%%/ref/mscorlib.dll
+share/dotnet/sdk/%%SDK_VERSION%%/ref/netstandard.dll
+share/dotnet/sdk/%%SDK_VERSION%%/runtimes/unix/lib/netstandard1.3/System.Security.Cryptography.ProtectedData.dll
+share/dotnet/sdk/%%SDK_VERSION%%/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll
+share/dotnet/sdk/%%SDK_VERSION%%/runtimes/win/lib/netstandard1.3/System.Security.Cryptography.ProtectedData.dll
+share/dotnet/sdk/%%SDK_VERSION%%/vstest.console.deps.json
+share/dotnet/sdk/%%SDK_VERSION%%/vstest.console.dll
+share/dotnet/sdk/%%SDK_VERSION%%/vstest.console.dll.config
+share/dotnet/sdk/%%SDK_VERSION%%/vstest.console.runtimeconfig.json
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Extensions/cs
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Extensions/de
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Extensions/es
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Extensions/fr
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Extensions/it
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Extensions/ja
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Extensions/ko
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Extensions/pl
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Extensions/pt-BR
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Extensions/ru
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Extensions/tr
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Extensions/zh-Hans
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Extensions/zh-Hant
+@dir share/dotnet/sdk/%%SDK_VERSION%%/FSharp/cs
+@dir share/dotnet/sdk/%%SDK_VERSION%%/FSharp/de
+@dir share/dotnet/sdk/%%SDK_VERSION%%/FSharp/en
+@dir share/dotnet/sdk/%%SDK_VERSION%%/FSharp/es
+@dir share/dotnet/sdk/%%SDK_VERSION%%/FSharp/fr
+@dir share/dotnet/sdk/%%SDK_VERSION%%/FSharp/it
+@dir share/dotnet/sdk/%%SDK_VERSION%%/FSharp/ja
+@dir share/dotnet/sdk/%%SDK_VERSION%%/FSharp/ko
+@dir share/dotnet/sdk/%%SDK_VERSION%%/FSharp/pl
+@dir share/dotnet/sdk/%%SDK_VERSION%%/FSharp/pt-BR
+@dir share/dotnet/sdk/%%SDK_VERSION%%/FSharp/ru
+@dir share/dotnet/sdk/%%SDK_VERSION%%/FSharp/tr
+@dir share/dotnet/sdk/%%SDK_VERSION%%/FSharp/zh-Hans
+@dir share/dotnet/sdk/%%SDK_VERSION%%/FSharp/zh-Hant
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/cs
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/de
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/es
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/fr
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/it
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/ja
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/ko
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/pl
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/pt-BR
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/ru
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/tr
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/zh-Hans
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Microsoft/Microsoft.NET.Build.Extensions/tools/netcoreapp2.0/zh-Hant
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/cs
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/de
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/es
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/fr
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/it
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/ja
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/ko
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/pl
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/pt-BR
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/ru
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/tr
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/zh-Hans
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/bincore/zh-Hant
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/net46/cs
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/net46/de
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/net46/es
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/net46/fr
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/net46/it
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/net46/ja
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/net46/ko
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/net46/pl
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/net46/pt-BR
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/net46/ru
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/net46/tr
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/net46/zh-Hans
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/net46/zh-Hant
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/netcoreapp2.0/cs
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/netcoreapp2.0/de
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/netcoreapp2.0/es
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/netcoreapp2.0/fr
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/netcoreapp2.0/it
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/netcoreapp2.0/ja
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/netcoreapp2.0/ko
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/netcoreapp2.0/pl
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/netcoreapp2.0/pt-BR
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/netcoreapp2.0/ru
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/netcoreapp2.0/tr
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/netcoreapp2.0/zh-Hans
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Roslyn/netcoreapp2.0/zh-Hant
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/cs
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/de
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/es
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/fr
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/it
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/ja
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/ko
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/pl
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/pt-BR
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/ru
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/tr
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/zh-Hans
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/net46/zh-Hant
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/cs
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/de
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/es
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/fr
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/it
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/ja
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/ko
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/pl
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/pt-BR
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/ru
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/tr
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/zh-Hans
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk/tools/netcoreapp2.0/zh-Hant
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/Microsoft.NET.Sdk.Publish/tools/net46/en-US
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/cs
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/de
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/es
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/fr
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/it
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/ja
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/ko
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/pl
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/pt-BR
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/ru
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/tr
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/zh-Hans
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/CoreCLR/zh-Hant
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/Desktop/cs
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/Desktop/de
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/Desktop/es
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/Desktop/fr
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/Desktop/it
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/Desktop/ja
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/Desktop/ko
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/Desktop/pl
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/Desktop/pt-BR
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/Desktop/ru
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/Desktop/tr
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/Desktop/zh-Hans
+@dir share/dotnet/sdk/%%SDK_VERSION%%/Sdks/NuGet.Build.Tasks.Pack/Desktop/zh-Hant
+@dir share/dotnet/sdk/%%SDK_VERSION%%/TestHost/cs
+@dir share/dotnet/sdk/%%SDK_VERSION%%/TestHost/de
+@dir share/dotnet/sdk/%%SDK_VERSION%%/TestHost/es
+@dir share/dotnet/sdk/%%SDK_VERSION%%/TestHost/fr
+@dir share/dotnet/sdk/%%SDK_VERSION%%/TestHost/it
+@dir share/dotnet/sdk/%%SDK_VERSION%%/TestHost/ja
+@dir share/dotnet/sdk/%%SDK_VERSION%%/TestHost/ko
+@dir share/dotnet/sdk/%%SDK_VERSION%%/TestHost/pl
+@dir share/dotnet/sdk/%%SDK_VERSION%%/TestHost/pt-BR
+@dir share/dotnet/sdk/%%SDK_VERSION%%/TestHost/ru
+@dir share/dotnet/sdk/%%SDK_VERSION%%/TestHost/tr
+@dir share/dotnet/sdk/%%SDK_VERSION%%/TestHost/zh-Hans
+@dir share/dotnet/sdk/%%SDK_VERSION%%/TestHost/zh-Hant
+@dir share/dotnet/sdk/%%SDK_VERSION%%/cs
+@dir share/dotnet/sdk/%%SDK_VERSION%%/de
+@dir share/dotnet/sdk/%%SDK_VERSION%%/en
+@dir share/dotnet/sdk/%%SDK_VERSION%%/es
+@dir share/dotnet/sdk/%%SDK_VERSION%%/fr
+@dir share/dotnet/sdk/%%SDK_VERSION%%/it
+@dir share/dotnet/sdk/%%SDK_VERSION%%/ja
+@dir share/dotnet/sdk/%%SDK_VERSION%%/ko
+@dir share/dotnet/sdk/%%SDK_VERSION%%/pl
+@dir share/dotnet/sdk/%%SDK_VERSION%%/pt-BR
+@dir share/dotnet/sdk/%%SDK_VERSION%%/ru
+@dir share/dotnet/sdk/%%SDK_VERSION%%/tr
+@dir share/dotnet/sdk/%%SDK_VERSION%%/zh-Hans
+@dir share/dotnet/sdk/%%SDK_VERSION%%/zh-Hant

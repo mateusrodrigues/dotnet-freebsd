@@ -1,4 +1,3 @@
-# Created by: Mateus de Morais <mateus@mateus.tech>
 # $FreeBSD$
 
 PORTNAME=	dotnet-sdk
